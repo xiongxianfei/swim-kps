@@ -1,0 +1,23 @@
+name: Swimming method improvement
+description: Propose a bounded, safe, evidence-aware self-coaching improvement.
+title: "Method proposal: "
+labels: []
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Coaching question and proposed change
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Relevant evidence, access extent and competing explanation
+    validations:
+      required: true
+  - type: textarea
+    id: limit
+    attributes:
+      label: Safe prerequisites, stop conditions and limitations
+    validations:
+      required: true

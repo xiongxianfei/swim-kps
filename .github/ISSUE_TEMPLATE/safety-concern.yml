@@ -1,0 +1,20 @@
+name: Safety concern in published guidance
+description: Flag unsafe or insufficiently bounded content without personal medical details.
+title: "Safety concern: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "This tracker is not emergency or medical assistance. Stop unsafe activity and seek appropriate in-person help. Do not include identifying health records."
+  - type: input
+    id: location
+    attributes:
+      label: Exact file, stage or claim
+    validations:
+      required: true
+  - type: textarea
+    id: risk
+    attributes:
+      label: Potential hazard and suggested safeguard
+    validations:
+      required: true

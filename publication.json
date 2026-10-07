@@ -1,0 +1,18 @@
+{
+  "package": "swim",
+  "version": "4.0.1",
+  "kps_language": "9.x",
+  "validated_with": "9.0.0",
+  "markdown_profile": "practical-markdown-v1",
+  "released": "2026-10-07",
+  "independent": true,
+  "knowledge_types": [
+    "concept",
+    "principle",
+    "model",
+    "method",
+    "practice"
+  ],
+  "reference_is_supporting_record": true,
+  "scope": "self-coaching breaststroke and front crawl"
+}

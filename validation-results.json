@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "scope": "publication structure and declared dependency changes only; not factual or domain conformance validation",
+  "stats": {
+    "markdown_documents": 102,
+    "knowledge_objects": 55,
+    "reference_records": 24,
+    "by_type": {
+      "concept": 13,
+      "method": 20,
+      "model": 8,
+      "practice": 3,
+      "principle": 11
+    },
+    "local_links": 953,
+    "typed_relationships": 277,
+    "practice_stages": 18,
+    "heading_identifiers": 1091,
+    "summary_recipients": 50,
+    "summary_dependencies": 278,
+    "manifest_files": 0
+  },
+  "errors": []
+}
