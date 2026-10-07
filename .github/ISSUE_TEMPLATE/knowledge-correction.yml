@@ -1,0 +1,29 @@
+name: Swimming knowledge correction
+description: Report a specific inaccurate, weakly supported, or misleading claim.
+title: "Knowledge correction: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "Identify the exact file and claim. Do not share identifying health details or personal videos."
+  - type: input
+    id: claim
+    attributes:
+      label: File and claim
+      placeholder: "e.g. principles/example.md — Statement"
+    validations:
+      required: true
+  - type: textarea
+    id: concern
+    attributes:
+      label: Concern and scope
+      description: "What is unsupported or misleading, and under what conditions?"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and limits
+      description: "Links to inspected sources, access extent, counterevidence and possible correction."
+    validations:
+      required: false

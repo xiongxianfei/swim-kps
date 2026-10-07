@@ -1,0 +1,384 @@
+{
+  "format": 1,
+  "meaning": "Declared/direct dependencies requiring human summary review after content changes; not proof of factual or semantic validity.",
+  "entries": {
+    "concepts/body-alignment.md": {
+      "references/cortesi-2015-head-position-and-passive-drag.md": "7bfd607baa21be71ce0fdcd846534f6a409d356dc46e0d5e384fd3ce3621a306"
+    },
+    "concepts/breathing-cycle.md": {
+      "references/nhlbi-2025-what-breathing-does-for-the-body.md": "6156ffc08a9faa69c940f86f14a0e896d7a6ac5e73e11230fd5f79d4d4cd9569"
+    },
+    "concepts/buoyancy.md": {
+      "references/moebs-2016-university-physics-volume-1.md": "e85d555e118f7c441e09820ee82178ef7418136cf3e1484194fd52410e0db7bd"
+    },
+    "concepts/coordination.md": {
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb"
+    },
+    "concepts/drag.md": {
+      "references/nasa-undated-drag-equation.md": "af4eee19619c2813bfffe6f602a6cc9773d19034266e032d5faaaed837a99473"
+    },
+    "concepts/limb-orientation.md": {
+      "references/us-masters-swimming-undated-freestyle-pull.md": "6d0be16c5f17298b85452ce64df1146372bcd01ae6486a3da379c511ed533636"
+    },
+    "concepts/propulsion.md": {
+      "references/moebs-2016-university-physics-volume-1.md": "e85d555e118f7c441e09820ee82178ef7418136cf3e1484194fd52410e0db7bd"
+    },
+    "concepts/stroke-cycle.md": {
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb"
+    },
+    "methods/check-body-line.md": {
+      "models/body-support-and-balance-model.md": "47e2ed7dfead36339d49ad94b26a610a78dbda5e843ca163b435a10e560f9aa2",
+      "principles/buoyancy-and-orientation-are-distinct.md": "9cf7279b091eaeac9e2c887c40ac83cc2fc5dbf2d2380d3b3bbadcef22dabbe6",
+      "principles/resistance-varies-with-speed-and-configuration.md": "c218dbbb7ce5034ce03450da84de5cfc32fc1a66f402d3ef4ae532d6b9ae0776",
+      "references/cortesi-2015-head-position-and-passive-drag.md": "7bfd607baa21be71ce0fdcd846534f6a409d356dc46e0d5e384fd3ce3621a306",
+      "references/rnli-undated-float-to-live.md": "7cf6960412b5ef1ebb34380f73ce05e93870a6a6e4797afbf52d3e68229515f0"
+    },
+    "methods/check-breaststroke-kick.md": {
+      "models/breaststroke-cycle-model.md": "700ce170b61191e35c3de43f7dcceec0c4dc1d26dc0310c9b605b5a75c1583e9",
+      "models/breaststroke-kick-model.md": "c759aba714b7e12fcff62e368ac8c71abf74801061cdefb25a07d5411f0138b4",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
+      "principles/limb-configuration-changes-the-effect-of-effort.md": "27f809ad7239942f91dfd609636ce618e6000ae2d1bb0085c44a270ece73010f",
+      "principles/pain-location-does-not-identify-a-stroke-fault.md": "5d0629cb5e411566e015fbd79604befe8c0d063c2e3efbf5ec1259815cfda6b1",
+      "references/nhs-undated-knee-pain.md": "e8a50f3b35a1d1a2a381b6ec607f6e86a7ff1f41f91511b6e333ea97d6170595",
+      "references/swim-england-2018-improving-breaststroke-kick.md": "949ab3e37d8d16c10a1ddf960d037e9c30e4cb5f854daa87e1b1dc1980d377a1",
+      "references/us-masters-swimming-undated-breaststroke-kick.md": "ef02d6f2e831221250bf5b15172a7892892635ae766f93788a192abee992d3ff"
+    },
+    "methods/check-readiness.md": {
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "references/american-red-cross-undated-swimming-safety.md": "e73162d7698f955ab15a46a8e2ae488d6e63a96ba4dc8e486370525fc6fec002",
+      "references/boyd-2015-dangerous-underwater-breath-holding.md": "9d0b6fb3f9147cce8cc6ab70024e143a27e31f9b189468497337473e0bc1852f",
+      "references/nhs-undated-knee-pain.md": "e8a50f3b35a1d1a2a381b6ec607f6e86a7ff1f41f91511b6e333ea97d6170595",
+      "references/nhs-undated-shoulder-pain.md": "ebb2eb8ac4e68eee12372c9cde7e33825cde686e0dabd421a201e1549122f67b"
+    },
+    "methods/check-whole-stroke-transfer.md": {
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8"
+    },
+    "methods/compare-breaststroke-continuity.md": {
+      "models/breaststroke-cycle-model.md": "700ce170b61191e35c3de43f7dcceec0c4dc1d26dc0310c9b605b5a75c1583e9",
+      "models/stroke-measurement-model.md": "03dcd0f284b154428f4e65921b8373baf5120b59483b78a8df5f6aa9d0cfc5f8",
+      "principles/fewer-strokes-do-not-identify-lower-energy-cost.md": "92874d404f4fcb24cf1f246333a37bc1cfb073cfb3066ff022bfdc928e8acafe",
+      "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad",
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb"
+    },
+    "methods/compare-one-safe-adjustment.md": {
+      "methods/check-readiness.md": "75d3531524b5347f9606c7d85985605f312a629ad3653ad47a11f751d2195dfa",
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "models/stroke-measurement-model.md": "03dcd0f284b154428f4e65921b8373baf5120b59483b78a8df5f6aa9d0cfc5f8",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
+      "references/american-red-cross-undated-swimming-safety.md": "e73162d7698f955ab15a46a8e2ae488d6e63a96ba4dc8e486370525fc6fec002",
+      "references/cochrane-2024-handbook-v6-5.md": "1fde466dbe554efec9bb48ca13315e0bf3de52a81e4cc81e7e01f2a2cfc63cac"
+    },
+    "methods/coordinate-breaststroke.md": {
+      "models/breaststroke-cycle-model.md": "700ce170b61191e35c3de43f7dcceec0c4dc1d26dc0310c9b605b5a75c1583e9",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
+      "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad",
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb",
+      "references/swim-england-2016-tips-for-getting-breaststroke-right.md": "60023f48e948a6ab839cfd0bc65998a6fb36d8f13784e6054d06e7ce48f549f6"
+    },
+    "methods/explore-breaststroke-arms.md": {
+      "models/breaststroke-cycle-model.md": "700ce170b61191e35c3de43f7dcceec0c4dc1d26dc0310c9b605b5a75c1583e9",
+      "models/force-and-resistance-model.md": "959e43bc4a9259c04c556429faf3c9dc3dbf50fb64dc44fa66e2a43f800b8645",
+      "principles/air-access-and-stroking-share-timing.md": "1695688b31c62c6da22fb36ef2113314241547d60ef214a9e89a29a8c6a89f0b",
+      "principles/limb-configuration-changes-the-effect-of-effort.md": "27f809ad7239942f91dfd609636ce618e6000ae2d1bb0085c44a270ece73010f",
+      "principles/recovery-repositions-limbs-and-alters-resistance.md": "f4dc83e85977af053750686e49291fd1ac659c2e016113ecd13faf4fe4d3a6e4",
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb",
+      "references/swim-england-2018-improving-breaststroke-technique.md": "ed1d9fb5fd3deee8452025e46b643a2bb1623987ce16b48dfb736f76fe3a7886",
+      "references/us-masters-swimming-undated-breaststroke-pull.md": "ee50a6a7b2c06f1663eef1e835bd6c44dae30729c053b9731cf6389e182a33e9"
+    },
+    "methods/explore-flutter-kick.md": {
+      "models/front-crawl-cycle-model.md": "0af267649c47e263428658e8899f1198bab683b01e95d3fba5b63a78c617919f",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
+      "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad",
+      "references/swim-england-2018-improving-front-crawl-technique.md": "da3c1c69d0212949d96f9b0bae30c63208e530bebc08a0a1a3c6c957a6dd5e3d",
+      "references/us-masters-swimming-undated-freestyle-kick.md": "6d19c57efb0c0905bdd1316b5b228b53fd7088a54fd57d05913135553f1738d4"
+    },
+    "methods/explore-front-crawl-arms.md": {
+      "models/front-crawl-cycle-model.md": "0af267649c47e263428658e8899f1198bab683b01e95d3fba5b63a78c617919f",
+      "principles/limb-configuration-changes-the-effect-of-effort.md": "27f809ad7239942f91dfd609636ce618e6000ae2d1bb0085c44a270ece73010f",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
+      "principles/recovery-repositions-limbs-and-alters-resistance.md": "f4dc83e85977af053750686e49291fd1ac659c2e016113ecd13faf4fe4d3a6e4",
+      "references/swim-england-2018-improving-front-crawl-technique.md": "da3c1c69d0212949d96f9b0bae30c63208e530bebc08a0a1a3c6c957a6dd5e3d",
+      "references/us-masters-swimming-undated-freestyle-pull.md": "6d0be16c5f17298b85452ce64df1146372bcd01ae6486a3da379c511ed533636"
+    },
+    "methods/explore-supported-breathing.md": {
+      "models/breathing-and-air-access-model.md": "f6bbb85b9bfd39d84e0eaace28d644222cee9795d26a8e054ddbccff52ab8c46",
+      "principles/air-access-and-stroking-share-timing.md": "1695688b31c62c6da22fb36ef2113314241547d60ef214a9e89a29a8c6a89f0b",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
+      "references/boyd-2015-dangerous-underwater-breath-holding.md": "9d0b6fb3f9147cce8cc6ab70024e143a27e31f9b189468497337473e0bc1852f",
+      "references/nhlbi-2025-what-breathing-does-for-the-body.md": "6156ffc08a9faa69c940f86f14a0e896d7a6ac5e73e11230fd5f79d4d4cd9569",
+      "references/swim-england-2018-front-crawl-breathing.md": "9c4fb1c5ad77c24ded8d66e33395258b65b46ae25f7b10d7844c3171256e9f72"
+    },
+    "methods/integrate-front-crawl.md": {
+      "models/front-crawl-cycle-model.md": "0af267649c47e263428658e8899f1198bab683b01e95d3fba5b63a78c617919f",
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
+      "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad"
+    },
+    "methods/integrate-side-breathing.md": {
+      "models/breathing-and-air-access-model.md": "f6bbb85b9bfd39d84e0eaace28d644222cee9795d26a8e054ddbccff52ab8c46",
+      "models/front-crawl-cycle-model.md": "0af267649c47e263428658e8899f1198bab683b01e95d3fba5b63a78c617919f",
+      "principles/air-access-and-stroking-share-timing.md": "1695688b31c62c6da22fb36ef2113314241547d60ef214a9e89a29a8c6a89f0b",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
+      "references/boyd-2015-dangerous-underwater-breath-holding.md": "9d0b6fb3f9147cce8cc6ab70024e143a27e31f9b189468497337473e0bc1852f",
+      "references/swim-england-2018-front-crawl-breathing.md": "9c4fb1c5ad77c24ded8d66e33395258b65b46ae25f7b10d7844c3171256e9f72",
+      "references/us-masters-swimming-undated-freestyle-breathing.md": "f50a4de01036b46fd59a773b8e7ef910f45ac2bf91db7b45888730f1ac790b06"
+    },
+    "methods/measure-comparable-swims.md": {
+      "models/stroke-measurement-model.md": "03dcd0f284b154428f4e65921b8373baf5120b59483b78a8df5f6aa9d0cfc5f8",
+      "principles/fewer-strokes-do-not-identify-lower-energy-cost.md": "92874d404f4fcb24cf1f246333a37bc1cfb073cfb3066ff022bfdc928e8acafe"
+    },
+    "methods/observe-one-stroke-question.md": {
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f"
+    },
+    "methods/progress-controlled-distance.md": {
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "models/stroke-measurement-model.md": "03dcd0f284b154428f4e65921b8373baf5120b59483b78a8df5f6aa9d0cfc5f8",
+      "principles/air-access-and-stroking-share-timing.md": "1695688b31c62c6da22fb36ef2113314241547d60ef214a9e89a29a8c6a89f0b",
+      "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad",
+      "references/american-red-cross-undated-swimming-safety.md": "e73162d7698f955ab15a46a8e2ae488d6e63a96ba4dc8e486370525fc6fec002"
+    },
+    "methods/record-and-update-technique.md": {
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f"
+    },
+    "methods/record-permitted-video.md": {
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "models/stroke-measurement-model.md": "03dcd0f284b154428f4e65921b8373baf5120b59483b78a8df5f6aa9d0cfc5f8",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f"
+    },
+    "methods/request-targeted-feedback.md": {
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "principles/pain-location-does-not-identify-a-stroke-fault.md": "5d0629cb5e411566e015fbd79604befe8c0d063c2e3efbf5ec1259815cfda6b1",
+      "references/american-red-cross-undated-swimming-safety.md": "e73162d7698f955ab15a46a8e2ae488d6e63a96ba4dc8e486370525fc6fec002",
+      "references/nhs-undated-knee-pain.md": "e8a50f3b35a1d1a2a381b6ec607f6e86a7ff1f41f91511b6e333ea97d6170595",
+      "references/nhs-undated-shoulder-pain.md": "ebb2eb8ac4e68eee12372c9cde7e33825cde686e0dabd421a201e1549122f67b"
+    },
+    "methods/synthesize-swimming-sources.md": {
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
+      "references/cochrane-2024-handbook-v6-5.md": "1fde466dbe554efec9bb48ca13315e0bf3de52a81e4cc81e7e01f2a2cfc63cac"
+    },
+    "models/body-support-and-balance-model.md": {
+      "concepts/body-alignment.md": "442dc050d49e910a284907738c2d397fa72be729d2489d7a73d030fd53eaf0dd",
+      "concepts/buoyancy.md": "379a4edcf69b3c2afeb473303c52a02f899f8fe000353d0928341e7b392c40b6",
+      "principles/buoyancy-and-orientation-are-distinct.md": "9cf7279b091eaeac9e2c887c40ac83cc2fc5dbf2d2380d3b3bbadcef22dabbe6",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
+      "references/moebs-2016-university-physics-volume-1.md": "e85d555e118f7c441e09820ee82178ef7418136cf3e1484194fd52410e0db7bd",
+      "references/rnli-undated-float-to-live.md": "7cf6960412b5ef1ebb34380f73ce05e93870a6a6e4797afbf52d3e68229515f0"
+    },
+    "models/breaststroke-cycle-model.md": {
+      "concepts/coordination.md": "0f02bc15bb0df6a1654c1214f813b244d9b5282b67e9ce95491bad5964e4a23f",
+      "concepts/limb-orientation.md": "b918f981103d576a5b6a220cefd6a146581cc915e5f3adbfc5e562c1ecf32b11",
+      "concepts/stroke-cycle.md": "ea21966f93890fc2fb9a13feb22f030cc0c361da1827b6d0eba761437d339fe6",
+      "principles/limb-configuration-changes-the-effect-of-effort.md": "27f809ad7239942f91dfd609636ce618e6000ae2d1bb0085c44a270ece73010f",
+      "principles/recovery-repositions-limbs-and-alters-resistance.md": "f4dc83e85977af053750686e49291fd1ac659c2e016113ecd13faf4fe4d3a6e4",
+      "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad",
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb",
+      "references/swim-england-2016-tips-for-getting-breaststroke-right.md": "60023f48e948a6ab839cfd0bc65998a6fb36d8f13784e6054d06e7ce48f549f6",
+      "references/swim-england-2018-improving-breaststroke-technique.md": "ed1d9fb5fd3deee8452025e46b643a2bb1623987ce16b48dfb736f76fe3a7886",
+      "references/us-masters-swimming-undated-breaststroke-pull.md": "ee50a6a7b2c06f1663eef1e835bd6c44dae30729c053b9731cf6389e182a33e9"
+    },
+    "models/breaststroke-kick-model.md": {
+      "concepts/coordination.md": "0f02bc15bb0df6a1654c1214f813b244d9b5282b67e9ce95491bad5964e4a23f",
+      "concepts/limb-orientation.md": "b918f981103d576a5b6a220cefd6a146581cc915e5f3adbfc5e562c1ecf32b11",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
+      "principles/limb-configuration-changes-the-effect-of-effort.md": "27f809ad7239942f91dfd609636ce618e6000ae2d1bb0085c44a270ece73010f",
+      "principles/pain-location-does-not-identify-a-stroke-fault.md": "5d0629cb5e411566e015fbd79604befe8c0d063c2e3efbf5ec1259815cfda6b1",
+      "references/moebs-2016-university-physics-volume-1.md": "e85d555e118f7c441e09820ee82178ef7418136cf3e1484194fd52410e0db7bd",
+      "references/nhs-undated-knee-pain.md": "e8a50f3b35a1d1a2a381b6ec607f6e86a7ff1f41f91511b6e333ea97d6170595",
+      "references/swim-england-2018-improving-breaststroke-kick.md": "949ab3e37d8d16c10a1ddf960d037e9c30e4cb5f854daa87e1b1dc1980d377a1",
+      "references/us-masters-swimming-undated-breaststroke-kick.md": "ef02d6f2e831221250bf5b15172a7892892635ae766f93788a192abee992d3ff"
+    },
+    "models/breathing-and-air-access-model.md": {
+      "concepts/breathing-cycle.md": "3dd3274cc9f735b42bf5624ec8bd08f800d3d561405bbf7b806fc27dae5b6ca1",
+      "concepts/coordination.md": "0f02bc15bb0df6a1654c1214f813b244d9b5282b67e9ce95491bad5964e4a23f",
+      "principles/air-access-and-stroking-share-timing.md": "1695688b31c62c6da22fb36ef2113314241547d60ef214a9e89a29a8c6a89f0b",
+      "references/boyd-2015-dangerous-underwater-breath-holding.md": "9d0b6fb3f9147cce8cc6ab70024e143a27e31f9b189468497337473e0bc1852f",
+      "references/nhlbi-2025-what-breathing-does-for-the-body.md": "6156ffc08a9faa69c940f86f14a0e896d7a6ac5e73e11230fd5f79d4d4cd9569",
+      "references/swim-england-2018-front-crawl-breathing.md": "9c4fb1c5ad77c24ded8d66e33395258b65b46ae25f7b10d7844c3171256e9f72",
+      "references/us-masters-swimming-undated-freestyle-breathing.md": "f50a4de01036b46fd59a773b8e7ef910f45ac2bf91db7b45888730f1ac790b06"
+    },
+    "models/force-and-resistance-model.md": {
+      "concepts/drag.md": "c1a81ce9e115a8b799d621b3ace0b41bafdca355710bc6140664b5ab3b4b3a51",
+      "concepts/propulsion.md": "fdfeb8796d827ea764c04471dd96b3b79b48424ed8b74a6106ddf797aadb8530",
+      "principles/force-direction-and-application-affect-motion.md": "b2e351c64810fd81c21134c57800db439c2369dd16f389745482ad7b4a23a37f",
+      "principles/resistance-varies-with-speed-and-configuration.md": "c218dbbb7ce5034ce03450da84de5cfc32fc1a66f402d3ef4ae532d6b9ae0776",
+      "references/cortesi-2015-head-position-and-passive-drag.md": "7bfd607baa21be71ce0fdcd846534f6a409d356dc46e0d5e384fd3ce3621a306",
+      "references/moebs-2016-university-physics-volume-1.md": "e85d555e118f7c441e09820ee82178ef7418136cf3e1484194fd52410e0db7bd",
+      "references/nasa-undated-drag-equation.md": "af4eee19619c2813bfffe6f602a6cc9773d19034266e032d5faaaed837a99473"
+    },
+    "models/front-crawl-cycle-model.md": {
+      "concepts/breathing-cycle.md": "3dd3274cc9f735b42bf5624ec8bd08f800d3d561405bbf7b806fc27dae5b6ca1",
+      "concepts/coordination.md": "0f02bc15bb0df6a1654c1214f813b244d9b5282b67e9ce95491bad5964e4a23f",
+      "concepts/stroke-cycle.md": "ea21966f93890fc2fb9a13feb22f030cc0c361da1827b6d0eba761437d339fe6",
+      "principles/air-access-and-stroking-share-timing.md": "1695688b31c62c6da22fb36ef2113314241547d60ef214a9e89a29a8c6a89f0b",
+      "principles/limb-configuration-changes-the-effect-of-effort.md": "27f809ad7239942f91dfd609636ce618e6000ae2d1bb0085c44a270ece73010f",
+      "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad",
+      "references/swim-england-2018-improving-front-crawl-technique.md": "da3c1c69d0212949d96f9b0bae30c63208e530bebc08a0a1a3c6c957a6dd5e3d",
+      "references/us-masters-swimming-undated-freestyle-breathing.md": "f50a4de01036b46fd59a773b8e7ef910f45ac2bf91db7b45888730f1ac790b06",
+      "references/us-masters-swimming-undated-freestyle-kick.md": "6d19c57efb0c0905bdd1316b5b228b53fd7088a54fd57d05913135553f1738d4",
+      "references/us-masters-swimming-undated-freestyle-pull.md": "6d0be16c5f17298b85452ce64df1146372bcd01ae6486a3da379c511ed533636"
+    },
+    "models/self-coaching-model.md": {
+      "concepts/cue.md": "0b7521458ae6cd8216e76d9eb95b4afd9abbf9a0b75dab3000dfc6fa9cc4ea89",
+      "concepts/observation-and-hypothesis.md": "0725a54f3111d4a0df4173fdfe8e976227495fafeecc865d16c26e814c96bf50",
+      "concepts/transfer.md": "01d2ce62c9470ff09ec84d9e5e2f3d326c698d5058323db29daef0e42db9a0ed",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
+      "references/american-red-cross-undated-swimming-safety.md": "e73162d7698f955ab15a46a8e2ae488d6e63a96ba4dc8e486370525fc6fec002",
+      "references/cochrane-2024-handbook-v6-5.md": "1fde466dbe554efec9bb48ca13315e0bf3de52a81e4cc81e7e01f2a2cfc63cac"
+    },
+    "models/stroke-measurement-model.md": {
+      "concepts/perceived-effort.md": "2532a4e1ba6e6b78acf6da6c72391d8732481772f246fd9493dd587fb41fd474",
+      "concepts/stroke-metrics.md": "d96c2889de17c54e76679bc31f43c3b86d52dc75f264ad5d33501e37f8c9e487",
+      "principles/fewer-strokes-do-not-identify-lower-energy-cost.md": "92874d404f4fcb24cf1f246333a37bc1cfb073cfb3066ff022bfdc928e8acafe",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb"
+    },
+    "practices/self-coach-breaststroke.md": {
+      "methods/check-body-line.md": "2c4c63a85ee1459cafeff2e293483e1991586787a6afafa2689b6cf65dced9e9",
+      "methods/check-breaststroke-kick.md": "8b6974118fa326f107398b01ef7a00d23feebbbaa254a8c4e1bb2f2f9a041e63",
+      "methods/check-readiness.md": "75d3531524b5347f9606c7d85985605f312a629ad3653ad47a11f751d2195dfa",
+      "methods/check-whole-stroke-transfer.md": "9ae0f63c9a66cc414cf73c57966deb8546f56fe92468b0cd53bc6c642c143873",
+      "methods/compare-breaststroke-continuity.md": "069be4cdbadd0394fbae0157705f5e5de8540252c5e5d0cbb93f5d39b463c900",
+      "methods/compare-one-safe-adjustment.md": "42248e544f87de9314d6ac2cdb9247b2e957bee65c3cbd4c6650e13f6d1ffe42",
+      "methods/coordinate-breaststroke.md": "a99a42a278611c521af8fadeb7fcc7c32c34d33ad838c1755882d9168a1e6249",
+      "methods/explore-breaststroke-arms.md": "81babef8bce4a445d1404c27402c1b7ed3e9f3aa3c6aa1e1ead524a8eecefbfa",
+      "methods/explore-supported-breathing.md": "a030b187ae6116a98872049cae40e24910627dedf1841d65bfddf78af8587a44",
+      "methods/measure-comparable-swims.md": "1bf08812ec31472667b8ff5bebb155ab6630ced7d3ac38b21002a1784a422819",
+      "methods/progress-controlled-distance.md": "6d5bf897df84c332d0fb7e85723cb47ceedd2b30cc73c3ab3b0f44beaa8e3487",
+      "methods/record-and-update-technique.md": "4a67c88489f61ffc3ac10c0541f575db2fd2c1593276205c3bab8575f5408cca",
+      "methods/request-targeted-feedback.md": "0189beb80f28cbd6a8387af0da43302580365da91cec52c3e20c0a2c671ea4a2",
+      "models/body-support-and-balance-model.md": "47e2ed7dfead36339d49ad94b26a610a78dbda5e843ca163b435a10e560f9aa2",
+      "models/breaststroke-cycle-model.md": "700ce170b61191e35c3de43f7dcceec0c4dc1d26dc0310c9b605b5a75c1583e9",
+      "models/breaststroke-kick-model.md": "c759aba714b7e12fcff62e368ac8c71abf74801061cdefb25a07d5411f0138b4",
+      "models/breathing-and-air-access-model.md": "f6bbb85b9bfd39d84e0eaace28d644222cee9795d26a8e054ddbccff52ab8c46",
+      "models/force-and-resistance-model.md": "959e43bc4a9259c04c556429faf3c9dc3dbf50fb64dc44fa66e2a43f800b8645",
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "models/stroke-measurement-model.md": "03dcd0f284b154428f4e65921b8373baf5120b59483b78a8df5f6aa9d0cfc5f8",
+      "principles/air-access-and-stroking-share-timing.md": "1695688b31c62c6da22fb36ef2113314241547d60ef214a9e89a29a8c6a89f0b",
+      "principles/buoyancy-and-orientation-are-distinct.md": "9cf7279b091eaeac9e2c887c40ac83cc2fc5dbf2d2380d3b3bbadcef22dabbe6",
+      "principles/fewer-strokes-do-not-identify-lower-energy-cost.md": "92874d404f4fcb24cf1f246333a37bc1cfb073cfb3066ff022bfdc928e8acafe",
+      "principles/force-direction-and-application-affect-motion.md": "b2e351c64810fd81c21134c57800db439c2369dd16f389745482ad7b4a23a37f",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
+      "principles/limb-configuration-changes-the-effect-of-effort.md": "27f809ad7239942f91dfd609636ce618e6000ae2d1bb0085c44a270ece73010f",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
+      "principles/recovery-repositions-limbs-and-alters-resistance.md": "f4dc83e85977af053750686e49291fd1ac659c2e016113ecd13faf4fe4d3a6e4",
+      "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad",
+      "references/american-red-cross-undated-swimming-safety.md": "e73162d7698f955ab15a46a8e2ae488d6e63a96ba4dc8e486370525fc6fec002",
+      "references/boyd-2015-dangerous-underwater-breath-holding.md": "9d0b6fb3f9147cce8cc6ab70024e143a27e31f9b189468497337473e0bc1852f",
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb",
+      "references/nhlbi-2025-what-breathing-does-for-the-body.md": "6156ffc08a9faa69c940f86f14a0e896d7a6ac5e73e11230fd5f79d4d4cd9569",
+      "references/nhs-undated-knee-pain.md": "e8a50f3b35a1d1a2a381b6ec607f6e86a7ff1f41f91511b6e333ea97d6170595",
+      "references/nhs-undated-shoulder-pain.md": "ebb2eb8ac4e68eee12372c9cde7e33825cde686e0dabd421a201e1549122f67b",
+      "references/rnli-undated-float-to-live.md": "7cf6960412b5ef1ebb34380f73ce05e93870a6a6e4797afbf52d3e68229515f0",
+      "references/swim-england-2016-tips-for-getting-breaststroke-right.md": "60023f48e948a6ab839cfd0bc65998a6fb36d8f13784e6054d06e7ce48f549f6",
+      "references/swim-england-2018-front-crawl-breathing.md": "9c4fb1c5ad77c24ded8d66e33395258b65b46ae25f7b10d7844c3171256e9f72",
+      "references/swim-england-2018-improving-breaststroke-kick.md": "949ab3e37d8d16c10a1ddf960d037e9c30e4cb5f854daa87e1b1dc1980d377a1",
+      "references/swim-england-2018-improving-breaststroke-technique.md": "ed1d9fb5fd3deee8452025e46b643a2bb1623987ce16b48dfb736f76fe3a7886",
+      "references/us-masters-swimming-undated-breaststroke-kick.md": "ef02d6f2e831221250bf5b15172a7892892635ae766f93788a192abee992d3ff",
+      "references/us-masters-swimming-undated-breaststroke-pull.md": "ee50a6a7b2c06f1663eef1e835bd6c44dae30729c053b9731cf6389e182a33e9"
+    },
+    "practices/self-coach-freestyle.md": {
+      "methods/check-body-line.md": "2c4c63a85ee1459cafeff2e293483e1991586787a6afafa2689b6cf65dced9e9",
+      "methods/check-readiness.md": "75d3531524b5347f9606c7d85985605f312a629ad3653ad47a11f751d2195dfa",
+      "methods/check-whole-stroke-transfer.md": "9ae0f63c9a66cc414cf73c57966deb8546f56fe92468b0cd53bc6c642c143873",
+      "methods/compare-one-safe-adjustment.md": "42248e544f87de9314d6ac2cdb9247b2e957bee65c3cbd4c6650e13f6d1ffe42",
+      "methods/explore-flutter-kick.md": "697191297220afea4fe899c9ca36b629341e5e0f8a4e09065becd95229678c74",
+      "methods/explore-front-crawl-arms.md": "2b41296ca83d71008b877127c529887138a86a1f794a70a59181db0e0b0d9400",
+      "methods/explore-supported-breathing.md": "a030b187ae6116a98872049cae40e24910627dedf1841d65bfddf78af8587a44",
+      "methods/integrate-front-crawl.md": "027d5f680d512a40366d6d8c94199e906f13bc43650d236fea5305afc138bf52",
+      "methods/integrate-side-breathing.md": "81fb05c363b0cd4f701fb6108fb0e7888fb5f7d378c8f5c2adc56c72e9e5ddd5",
+      "methods/measure-comparable-swims.md": "1bf08812ec31472667b8ff5bebb155ab6630ced7d3ac38b21002a1784a422819",
+      "methods/progress-controlled-distance.md": "6d5bf897df84c332d0fb7e85723cb47ceedd2b30cc73c3ab3b0f44beaa8e3487",
+      "methods/record-and-update-technique.md": "4a67c88489f61ffc3ac10c0541f575db2fd2c1593276205c3bab8575f5408cca",
+      "methods/request-targeted-feedback.md": "0189beb80f28cbd6a8387af0da43302580365da91cec52c3e20c0a2c671ea4a2",
+      "models/body-support-and-balance-model.md": "47e2ed7dfead36339d49ad94b26a610a78dbda5e843ca163b435a10e560f9aa2",
+      "models/breathing-and-air-access-model.md": "f6bbb85b9bfd39d84e0eaace28d644222cee9795d26a8e054ddbccff52ab8c46",
+      "models/force-and-resistance-model.md": "959e43bc4a9259c04c556429faf3c9dc3dbf50fb64dc44fa66e2a43f800b8645",
+      "models/front-crawl-cycle-model.md": "0af267649c47e263428658e8899f1198bab683b01e95d3fba5b63a78c617919f",
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "models/stroke-measurement-model.md": "03dcd0f284b154428f4e65921b8373baf5120b59483b78a8df5f6aa9d0cfc5f8",
+      "principles/air-access-and-stroking-share-timing.md": "1695688b31c62c6da22fb36ef2113314241547d60ef214a9e89a29a8c6a89f0b",
+      "principles/buoyancy-and-orientation-are-distinct.md": "9cf7279b091eaeac9e2c887c40ac83cc2fc5dbf2d2380d3b3bbadcef22dabbe6",
+      "principles/fewer-strokes-do-not-identify-lower-energy-cost.md": "92874d404f4fcb24cf1f246333a37bc1cfb073cfb3066ff022bfdc928e8acafe",
+      "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
+      "principles/limb-configuration-changes-the-effect-of-effort.md": "27f809ad7239942f91dfd609636ce618e6000ae2d1bb0085c44a270ece73010f",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
+      "principles/recovery-repositions-limbs-and-alters-resistance.md": "f4dc83e85977af053750686e49291fd1ac659c2e016113ecd13faf4fe4d3a6e4",
+      "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad",
+      "principles/resistance-varies-with-speed-and-configuration.md": "c218dbbb7ce5034ce03450da84de5cfc32fc1a66f402d3ef4ae532d6b9ae0776",
+      "references/american-red-cross-undated-swimming-safety.md": "e73162d7698f955ab15a46a8e2ae488d6e63a96ba4dc8e486370525fc6fec002",
+      "references/boyd-2015-dangerous-underwater-breath-holding.md": "9d0b6fb3f9147cce8cc6ab70024e143a27e31f9b189468497337473e0bc1852f",
+      "references/cortesi-2015-head-position-and-passive-drag.md": "7bfd607baa21be71ce0fdcd846534f6a409d356dc46e0d5e384fd3ce3621a306",
+      "references/nhlbi-2025-what-breathing-does-for-the-body.md": "6156ffc08a9faa69c940f86f14a0e896d7a6ac5e73e11230fd5f79d4d4cd9569",
+      "references/nhs-undated-knee-pain.md": "e8a50f3b35a1d1a2a381b6ec607f6e86a7ff1f41f91511b6e333ea97d6170595",
+      "references/nhs-undated-shoulder-pain.md": "ebb2eb8ac4e68eee12372c9cde7e33825cde686e0dabd421a201e1549122f67b",
+      "references/rnli-undated-float-to-live.md": "7cf6960412b5ef1ebb34380f73ce05e93870a6a6e4797afbf52d3e68229515f0",
+      "references/swim-england-2018-front-crawl-breathing.md": "9c4fb1c5ad77c24ded8d66e33395258b65b46ae25f7b10d7844c3171256e9f72",
+      "references/swim-england-2018-improving-front-crawl-technique.md": "da3c1c69d0212949d96f9b0bae30c63208e530bebc08a0a1a3c6c957a6dd5e3d",
+      "references/us-masters-swimming-undated-freestyle-breathing.md": "f50a4de01036b46fd59a773b8e7ef910f45ac2bf91db7b45888730f1ac790b06",
+      "references/us-masters-swimming-undated-freestyle-kick.md": "6d19c57efb0c0905bdd1316b5b228b53fd7088a54fd57d05913135553f1738d4",
+      "references/us-masters-swimming-undated-freestyle-pull.md": "6d0be16c5f17298b85452ce64df1146372bcd01ae6486a3da379c511ed533636"
+    },
+    "practices/use-swim-kps.md": {
+      "methods/check-readiness.md": "75d3531524b5347f9606c7d85985605f312a629ad3653ad47a11f751d2195dfa",
+      "methods/compare-one-safe-adjustment.md": "42248e544f87de9314d6ac2cdb9247b2e957bee65c3cbd4c6650e13f6d1ffe42",
+      "methods/record-and-update-technique.md": "4a67c88489f61ffc3ac10c0541f575db2fd2c1593276205c3bab8575f5408cca",
+      "methods/synthesize-swimming-sources.md": "8735819389b926b94faacf4621ee5acb9bccf2676e308ccd1bf9564cd19d3dea",
+      "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
+      "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f"
+    },
+    "principles/air-access-and-stroking-share-timing.md": {
+      "references/nhlbi-2025-what-breathing-does-for-the-body.md": "6156ffc08a9faa69c940f86f14a0e896d7a6ac5e73e11230fd5f79d4d4cd9569",
+      "references/swim-england-2018-front-crawl-breathing.md": "9c4fb1c5ad77c24ded8d66e33395258b65b46ae25f7b10d7844c3171256e9f72",
+      "references/us-masters-swimming-undated-freestyle-breathing.md": "f50a4de01036b46fd59a773b8e7ef910f45ac2bf91db7b45888730f1ac790b06"
+    },
+    "principles/buoyancy-and-orientation-are-distinct.md": {
+      "references/moebs-2016-university-physics-volume-1.md": "e85d555e118f7c441e09820ee82178ef7418136cf3e1484194fd52410e0db7bd",
+      "references/rnli-undated-float-to-live.md": "7cf6960412b5ef1ebb34380f73ce05e93870a6a6e4797afbf52d3e68229515f0"
+    },
+    "principles/fewer-strokes-do-not-identify-lower-energy-cost.md": {
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb",
+      "references/us-masters-swimming-undated-freestyle-pull.md": "6d0be16c5f17298b85452ce64df1146372bcd01ae6486a3da379c511ed533636"
+    },
+    "principles/force-direction-and-application-affect-motion.md": {
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb",
+      "references/moebs-2016-university-physics-volume-1.md": "e85d555e118f7c441e09820ee82178ef7418136cf3e1484194fd52410e0db7bd"
+    },
+    "principles/isolated-success-does-not-establish-transfer.md": {
+      "references/cochrane-2024-handbook-v6-5.md": "1fde466dbe554efec9bb48ca13315e0bf3de52a81e4cc81e7e01f2a2cfc63cac"
+    },
+    "principles/limb-configuration-changes-the-effect-of-effort.md": {
+      "references/moebs-2016-university-physics-volume-1.md": "e85d555e118f7c441e09820ee82178ef7418136cf3e1484194fd52410e0db7bd",
+      "references/swim-england-2018-improving-breaststroke-kick.md": "949ab3e37d8d16c10a1ddf960d037e9c30e4cb5f854daa87e1b1dc1980d377a1",
+      "references/us-masters-swimming-undated-breaststroke-kick.md": "ef02d6f2e831221250bf5b15172a7892892635ae766f93788a192abee992d3ff",
+      "references/us-masters-swimming-undated-freestyle-pull.md": "6d0be16c5f17298b85452ce64df1146372bcd01ae6486a3da379c511ed533636"
+    },
+    "principles/observation-does-not-identify-one-cause.md": {
+      "references/cochrane-2024-handbook-v6-5.md": "1fde466dbe554efec9bb48ca13315e0bf3de52a81e4cc81e7e01f2a2cfc63cac",
+      "references/cortesi-2015-head-position-and-passive-drag.md": "7bfd607baa21be71ce0fdcd846534f6a409d356dc46e0d5e384fd3ce3621a306"
+    },
+    "principles/pain-location-does-not-identify-a-stroke-fault.md": {
+      "references/nhs-undated-knee-pain.md": "e8a50f3b35a1d1a2a381b6ec607f6e86a7ff1f41f91511b6e333ea97d6170595",
+      "references/nhs-undated-shoulder-pain.md": "ebb2eb8ac4e68eee12372c9cde7e33825cde686e0dabd421a201e1549122f67b"
+    },
+    "principles/recovery-repositions-limbs-and-alters-resistance.md": {
+      "references/nasa-undated-drag-equation.md": "af4eee19619c2813bfffe6f602a6cc9773d19034266e032d5faaaed837a99473",
+      "references/swim-england-2018-improving-breaststroke-technique.md": "ed1d9fb5fd3deee8452025e46b643a2bb1623987ce16b48dfb736f76fe3a7886",
+      "references/us-masters-swimming-undated-breaststroke-pull.md": "ee50a6a7b2c06f1663eef1e835bd6c44dae30729c053b9731cf6389e182a33e9"
+    },
+    "principles/relative-timing-changes-the-whole-stroke.md": {
+      "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb",
+      "references/swim-england-2016-tips-for-getting-breaststroke-right.md": "60023f48e948a6ab839cfd0bc65998a6fb36d8f13784e6054d06e7ce48f549f6",
+      "references/swim-england-2018-improving-breaststroke-technique.md": "ed1d9fb5fd3deee8452025e46b643a2bb1623987ce16b48dfb736f76fe3a7886"
+    },
+    "principles/resistance-varies-with-speed-and-configuration.md": {
+      "references/cortesi-2015-head-position-and-passive-drag.md": "7bfd607baa21be71ce0fdcd846534f6a409d356dc46e0d5e384fd3ce3621a306",
+      "references/nasa-undated-drag-equation.md": "af4eee19619c2813bfffe6f602a6cc9773d19034266e032d5faaaed837a99473"
+    }
+  }
+}
