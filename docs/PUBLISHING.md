@@ -28,4 +28,4 @@ Preserve the existing license and attribution. Reference records do not license 
 
 ## History and compatibility
 
-The [4.0.1 release record](history/4.0.1-release.md) describes the earlier packaging work. Keep Swim versioning independent of Core and preserve the inspected contract in [Compatibility](COMPATIBILITY.md) until a separate compatibility review justifies an update.
+Record actual checks and publication status in the change PR. Keep Swim versioning independent of Core and preserve the inspected contract in [Compatibility](COMPATIBILITY.md) until a separate compatibility review justifies an update.

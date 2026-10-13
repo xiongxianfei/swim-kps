@@ -10,3 +10,5 @@ Thumbs.db
 private/
 personal/
 sessions/
+# Generated only for a packaged archive.
+/MANIFEST.sha256

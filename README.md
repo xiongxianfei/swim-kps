@@ -20,7 +20,7 @@ Self-coaching means choosing your learning question, not swimming alone. Use a s
 ## Structure and reading profile
 The five core folders are `concepts/`, `principles/`, `models/`, `methods/` and `practices/`. `references/` holds Markdown records identifying external publications and their actual contributions. No original source binaries, platform-specific editions or sibling-package files are required.
 
-Read the Markdown directly; no scripts are needed for using the library. `guides/` contains starting routes, the pool card and blank session template. `docs/` contains authoring, indexes and review guidance; `docs/history/` preserves earlier release records. Each Practice keeps its instructions inline; numbered stages are a recommended route subject to their prerequisites.
+Read the Markdown directly; no scripts are needed for using the library. `guides/` contains starting routes, the pool card and blank session template. `docs/` contains authoring, indexes and review guidance. Obsolete release reports remain available through Git history. Each Practice keeps its instructions inline; numbered stages are a recommended route subject to their prerequisites.
 
 ## Package and language versions
 Package version: **4.0.1**. Language compatibility: **KPS 9.x**. Exact authoring contract checked for this release: **9.0.0**. Compatibility is a promise about unchanged required meanings within that major line, not a claim that future tools or releases have been tested. See [Compatibility](docs/COMPATIBILITY.md).
@@ -42,4 +42,4 @@ This repository publishes reusable explanations, bounded Methods, self-contained
 Submit a [knowledge correction or proposal](.github/CONTRIBUTING.md) with the specific claim, observed limitation, source access extent and proposed revision. A reported result is an individual observation, not a universal instruction.
 
 ## License and publication
-Project-authored text and code are offered under the [MIT license](LICENSE), subject to review of publication rights; external Reference records identify third-party publications without re-licensing those publications. [Release notes](docs/history/4.0.1-release.md) distinguish packaging from changes to swimming evidence. This release is based on Swim 4.0.0 knowledge, not a new validation of the swimming claims. [Publication instructions](docs/PUBLISHING.md).
+Project-authored text and code are offered under the [MIT license](LICENSE), subject to review of publication rights; external Reference records identify third-party publications without re-licensing those publications. This release is based on Swim 4.0.0 knowledge, not a new validation of the swimming claims. [Publication instructions](docs/PUBLISHING.md).

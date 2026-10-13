@@ -32,7 +32,7 @@ Follow [the destination below](#navigation-test-destination), [the package summa
 This is the local target. [Return to the click test](#a-small-click-test).
 
 ## Validation and limits
-Run `python validate.py . --manifest`. This checks the authored subset, real target files and heading fragments, not a complete implementation of every Markdown dialect. The historical [check report](history/4.0.1-checks.md) records the independent local rendering performed for this release. No live website or desktop application is certified by a local parse. A plain Markdown processor is not required to generate IDs at all; choose a viewer supporting conventional heading links.
+Run `python validate.py .`. For an archive with a generated checksum inventory, also use `--manifest` as described in [Maintenance](MAINTENANCE.md#packaged-archive-checks). This checks the authored subset, real target files and heading fragments, not a complete implementation of every Markdown dialect. Record rendering checks for the current change in its PR. No live website or desktop application is certified by a local parse. A plain Markdown processor is not required to generate IDs at all; choose a viewer supporting conventional heading links.
 
 ## Basis
 GitHub's documentation describes lowercasing headings and hyphenating spaces, as well as the need to repair links after heading edits. MkDocs supports YAML and document-relative Markdown links; its published paths may differ from source paths. These support the profile's syntax choices, not a guarantee about all viewers. See [GitHub formatting](../references/github-undated-markdown-formatting.md) and [Compatibility](COMPATIBILITY.md). No renderer-specific edition is distributed.
