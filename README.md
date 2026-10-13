@@ -1,7 +1,7 @@
 ---
 package_version: "4.0.1"
 language: "KPS 9.x"
-reviewed: "2026-10-07"
+reviewed: null
 ---
 
 # Swim KPS
@@ -16,6 +16,10 @@ Swim KPS is a public, open-source self-coaching knowledge package for swimmers a
 Begin with [Start here](guides/START-HERE.md) and the inline safety boundary of the selected Practice: [Self coach breaststroke](practices/self-coach-breaststroke.md) or [Self coach freestyle](practices/self-coach-freestyle.md). Breaststroke has eight stages and freestyle seven; each supplies a summary, understanding, procedure, observations and next/fallback.
 
 Self-coaching means choosing your learning question, not swimming alone. Use a suitable lifeguarded pool with a companion and appropriate close assistance when inexperienced. If you cannot reliably get air, stop and regain support in the chosen task, obtain in-person instruction before unsupported experiments. Stop for pain, distress or repeated water inhalation. No forced breath restriction, hyperventilation, racing pullouts, diving, open-water work or rehabilitation is prescribed. [Red Cross safety](references/american-red-cross-undated-swimming-safety.md) and [Dangerous breath holding](references/boyd-2015-dangerous-underwater-breath-holding.md) support these boundaries, not personal clearance.
+
+## Explore by subject
+
+The [swimming subject map](docs/subject-map.md) connects water competence and air access, movement and forces, breaststroke, front crawl, effort and endurance, learning, and observation. Each topic has its existing explanations beside it, with partial coverage and gaps stated. Use the map to find knowledge; use the Practices for activities and their prerequisites.
 
 ## Structure and reading profile
 The five core folders are `concepts/`, `principles/`, `models/`, `methods/` and `practices/`. `references/` holds Markdown records identifying external publications and their actual contributions. No original source binaries, platform-specific editions or sibling-package files are required.

@@ -1,7 +1,7 @@
 ---
 package_version: "4.0.1"
 language: "KPS 9.x"
-reviewed: "2026-10-07"
+reviewed: null
 ---
 
 # swim knowledge index
@@ -11,6 +11,8 @@ Start from the real task, then use a locally complete file. The index is navigat
 
 ## Summary
 This independent package contains 55 knowledge objects and 24 structured external Reference records. Perspective is metadata. Sources, validation tools and publication notes are supporting infrastructure, not further knowledge types.
+
+Explore topics and their relationships in the [swimming subject map](subject-map.md), where existing explanations are aligned with each topic. This page lists files by role.
 
 ## Concept files
 
