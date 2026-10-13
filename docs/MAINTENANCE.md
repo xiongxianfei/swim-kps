@@ -69,3 +69,22 @@ The 2026-10-13 cleanup preserved the explanatory and safety text, metadata, know
 ## Test allowlist
 
 Retain validation of the actual package, pinned-checker integrity, Git-metadata exclusion and manifest behavior that detects altered or unexpected payloads while excluding tool state. Common validator regressions remain with Core's source versions; the local tests cover Swim's recorded adaptations. The copied general suite is removed. Content, safety and source review remain human responsibilities under the existing contribution guidance.
+
+## Packaged archive checks
+
+The Git source tree does not keep `MANIFEST.sha256`. When distributing an archive, generate it inside a clean staging copy of the package, then verify the extracted archive. From that copy's root:
+
+```bash
+python3 - <<'PYMANIFEST'
+from pathlib import Path
+import validate
+root = Path('.')
+Path('MANIFEST.sha256').write_text(''.join(
+    validate.sha(path) + '  ' + path.relative_to(root).as_posix() + '\n'
+    for path in validate.manifest_payload_files(root)
+), encoding='utf-8')
+PYMANIFEST
+python3 validate.py . --manifest
+```
+
+The existing payload helper excludes Git metadata and caches. Repeat the manifest check after extracting the archive; this verifies bytes and file coverage, not evidence quality.
