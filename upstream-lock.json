@@ -1,0 +1,10 @@
+{
+  "repository": "xiongxianfei/knowledge-practice-system",
+  "commit": "8fd410d1a8dec8b3e38352c9166639906049ec55",
+  "validator": {
+    "path": "validate.py",
+    "sha256": "2d3a94da4eeba6bd50b9dc484468066e023c1ee936ad13bc420678378dcc6a59",
+    "reuse": "Local shared manifest-payload exclusions and Git metadata filtering; validator source is unchanged by the test cleanup."
+  },
+  "regression_suite": "test_validate.py at the pinned Core commit; archived there, not copied into this domain"
+}

@@ -17,5 +17,5 @@ jobs:
         uses: actions/checkout@v4
       - name: Validate knowledge structure, links and typed references
         run: python3 validate.py .
-      - name: Run regression tests
-        run: python3 test_validate.py
+      - name: Verify pinned checker and local archive adaptations
+        run: python3 -m unittest discover -s tests -v

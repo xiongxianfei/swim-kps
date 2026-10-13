@@ -42,4 +42,4 @@ Copy only when there is real experience to record. Do not treat these empty fiel
 
 No change in execution means the intended comparison did not occur. A useful personal choice is not proof of a universal mechanism. No need to create an extensive record for every ordinary swim.
 
-[Breaststroke current state](practices/self-coach-breaststroke.md#current-practice-summary) · [Freestyle current state](practices/self-coach-freestyle.md#current-practice-summary) · [Home](README.md).
+[Breaststroke current state](../practices/self-coach-breaststroke.md#current-practice-summary) · [Freestyle current state](../practices/self-coach-freestyle.md#current-practice-summary) · [Home](../README.md).

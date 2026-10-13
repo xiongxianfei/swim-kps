@@ -22,4 +22,4 @@ Changes affecting air access, breath control, water depth, unsupported skills, p
 Swim versions evolve independently from [KPS Core](https://github.com/xiongxianfei/knowledge-practice-system). This repository declares KPS language `9.x` and retains the [compatibility statement](COMPATIBILITY.md). Breaking changes to meaning or stage semantics require explicit review before release.
 
 ## Deeper knowledge
-[Contributing](CONTRIBUTING.md) · [Safety](SAFETY.md) · [Release notes](RELEASE.md).
+[Contributing](../.github/CONTRIBUTING.md) · [Safety](../SAFETY.md) · [Release notes](history/4.0.1-release.md).

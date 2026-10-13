@@ -36,4 +36,4 @@ Keep provisionally / modify / discard / unresolved / get help. Record one observ
 
 Jump to the relevant stage when its prerequisites are already secure; these are not eight or seven tasks to finish today.
 
-[Breaststroke](practices/self-coach-breaststroke.md) · [Freestyle](practices/self-coach-freestyle.md) · [Session record](SESSION-TEMPLATE.md).
+[Breaststroke](../practices/self-coach-breaststroke.md) · [Freestyle](../practices/self-coach-freestyle.md) · [Session record](SESSION-TEMPLATE.md).
