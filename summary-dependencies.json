@@ -88,14 +88,14 @@
       "references/us-masters-swimming-undated-breaststroke-pull.md": "ee50a6a7b2c06f1663eef1e835bd6c44dae30729c053b9731cf6389e182a33e9"
     },
     "methods/explore-flutter-kick.md": {
-      "models/front-crawl-cycle-model.md": "0af267649c47e263428658e8899f1198bab683b01e95d3fba5b63a78c617919f",
+      "models/front-crawl-cycle-model.md": "067c02f87d5bdc14b6cb10cd0d1b7b18f31fd56b6caf75b2ec1fce900e931681",
       "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
       "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad",
       "references/swim-england-2018-improving-front-crawl-technique.md": "da3c1c69d0212949d96f9b0bae30c63208e530bebc08a0a1a3c6c957a6dd5e3d",
       "references/us-masters-swimming-undated-freestyle-kick.md": "6d19c57efb0c0905bdd1316b5b228b53fd7088a54fd57d05913135553f1738d4"
     },
     "methods/explore-front-crawl-arms.md": {
-      "models/front-crawl-cycle-model.md": "0af267649c47e263428658e8899f1198bab683b01e95d3fba5b63a78c617919f",
+      "models/front-crawl-cycle-model.md": "067c02f87d5bdc14b6cb10cd0d1b7b18f31fd56b6caf75b2ec1fce900e931681",
       "principles/limb-configuration-changes-the-effect-of-effort.md": "27f809ad7239942f91dfd609636ce618e6000ae2d1bb0085c44a270ece73010f",
       "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
       "principles/recovery-repositions-limbs-and-alters-resistance.md": "f4dc83e85977af053750686e49291fd1ac659c2e016113ecd13faf4fe4d3a6e4",
@@ -111,14 +111,14 @@
       "references/swim-england-2018-front-crawl-breathing.md": "9c4fb1c5ad77c24ded8d66e33395258b65b46ae25f7b10d7844c3171256e9f72"
     },
     "methods/integrate-front-crawl.md": {
-      "models/front-crawl-cycle-model.md": "0af267649c47e263428658e8899f1198bab683b01e95d3fba5b63a78c617919f",
+      "models/front-crawl-cycle-model.md": "067c02f87d5bdc14b6cb10cd0d1b7b18f31fd56b6caf75b2ec1fce900e931681",
       "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
       "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
       "principles/relative-timing-changes-the-whole-stroke.md": "ef8862c516888e25ed4f1f1506773b70e59391efd07ba7763cab572d18a429ad"
     },
     "methods/integrate-side-breathing.md": {
       "models/breathing-and-air-access-model.md": "f6bbb85b9bfd39d84e0eaace28d644222cee9795d26a8e054ddbccff52ab8c46",
-      "models/front-crawl-cycle-model.md": "0af267649c47e263428658e8899f1198bab683b01e95d3fba5b63a78c617919f",
+      "models/front-crawl-cycle-model.md": "067c02f87d5bdc14b6cb10cd0d1b7b18f31fd56b6caf75b2ec1fce900e931681",
       "principles/air-access-and-stroking-share-timing.md": "1695688b31c62c6da22fb36ef2113314241547d60ef214a9e89a29a8c6a89f0b",
       "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
       "references/boyd-2015-dangerous-underwater-breath-holding.md": "9d0b6fb3f9147cce8cc6ab70024e143a27e31f9b189468497337473e0bc1852f",
@@ -246,11 +246,11 @@
       "methods/compare-breaststroke-continuity.md": "069be4cdbadd0394fbae0157705f5e5de8540252c5e5d0cbb93f5d39b463c900",
       "methods/compare-one-safe-adjustment.md": "42248e544f87de9314d6ac2cdb9247b2e957bee65c3cbd4c6650e13f6d1ffe42",
       "methods/coordinate-breaststroke.md": "a99a42a278611c521af8fadeb7fcc7c32c34d33ad838c1755882d9168a1e6249",
-      "methods/explore-breaststroke-arms.md": "81babef8bce4a445d1404c27402c1b7ed3e9f3aa3c6aa1e1ead524a8eecefbfa",
+      "methods/explore-breaststroke-arms.md": "da3fdb39da73d5d02e27954e8a1b1ee43d69a8b7d90da24665e2960873960203",
       "methods/explore-supported-breathing.md": "a030b187ae6116a98872049cae40e24910627dedf1841d65bfddf78af8587a44",
       "methods/measure-comparable-swims.md": "1bf08812ec31472667b8ff5bebb155ab6630ced7d3ac38b21002a1784a422819",
       "methods/progress-controlled-distance.md": "6d5bf897df84c332d0fb7e85723cb47ceedd2b30cc73c3ab3b0f44beaa8e3487",
-      "methods/record-and-update-technique.md": "4a67c88489f61ffc3ac10c0541f575db2fd2c1593276205c3bab8575f5408cca",
+      "methods/record-and-update-technique.md": "01c32ed72f0f2496c086f29c92c4027c67d941a512afab04e346cc6f672e1079",
       "methods/request-targeted-feedback.md": "0189beb80f28cbd6a8387af0da43302580365da91cec52c3e20c0a2c671ea4a2",
       "models/body-support-and-balance-model.md": "47e2ed7dfead36339d49ad94b26a610a78dbda5e843ca163b435a10e560f9aa2",
       "models/breaststroke-cycle-model.md": "700ce170b61191e35c3de43f7dcceec0c4dc1d26dc0310c9b605b5a75c1583e9",
@@ -294,12 +294,12 @@
       "methods/integrate-side-breathing.md": "81fb05c363b0cd4f701fb6108fb0e7888fb5f7d378c8f5c2adc56c72e9e5ddd5",
       "methods/measure-comparable-swims.md": "1bf08812ec31472667b8ff5bebb155ab6630ced7d3ac38b21002a1784a422819",
       "methods/progress-controlled-distance.md": "6d5bf897df84c332d0fb7e85723cb47ceedd2b30cc73c3ab3b0f44beaa8e3487",
-      "methods/record-and-update-technique.md": "4a67c88489f61ffc3ac10c0541f575db2fd2c1593276205c3bab8575f5408cca",
+      "methods/record-and-update-technique.md": "01c32ed72f0f2496c086f29c92c4027c67d941a512afab04e346cc6f672e1079",
       "methods/request-targeted-feedback.md": "0189beb80f28cbd6a8387af0da43302580365da91cec52c3e20c0a2c671ea4a2",
       "models/body-support-and-balance-model.md": "47e2ed7dfead36339d49ad94b26a610a78dbda5e843ca163b435a10e560f9aa2",
       "models/breathing-and-air-access-model.md": "f6bbb85b9bfd39d84e0eaace28d644222cee9795d26a8e054ddbccff52ab8c46",
       "models/force-and-resistance-model.md": "959e43bc4a9259c04c556429faf3c9dc3dbf50fb64dc44fa66e2a43f800b8645",
-      "models/front-crawl-cycle-model.md": "0af267649c47e263428658e8899f1198bab683b01e95d3fba5b63a78c617919f",
+      "models/front-crawl-cycle-model.md": "067c02f87d5bdc14b6cb10cd0d1b7b18f31fd56b6caf75b2ec1fce900e931681",
       "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
       "models/stroke-measurement-model.md": "03dcd0f284b154428f4e65921b8373baf5120b59483b78a8df5f6aa9d0cfc5f8",
       "principles/air-access-and-stroking-share-timing.md": "1695688b31c62c6da22fb36ef2113314241547d60ef214a9e89a29a8c6a89f0b",
@@ -327,8 +327,8 @@
     "practices/use-swim-kps.md": {
       "methods/check-readiness.md": "75d3531524b5347f9606c7d85985605f312a629ad3653ad47a11f751d2195dfa",
       "methods/compare-one-safe-adjustment.md": "42248e544f87de9314d6ac2cdb9247b2e957bee65c3cbd4c6650e13f6d1ffe42",
-      "methods/record-and-update-technique.md": "4a67c88489f61ffc3ac10c0541f575db2fd2c1593276205c3bab8575f5408cca",
-      "methods/synthesize-swimming-sources.md": "8735819389b926b94faacf4621ee5acb9bccf2676e308ccd1bf9564cd19d3dea",
+      "methods/record-and-update-technique.md": "01c32ed72f0f2496c086f29c92c4027c67d941a512afab04e346cc6f672e1079",
+      "methods/synthesize-swimming-sources.md": "ed9b832a73b06c62355b8f9765d08fe5e12d25eb1d03198f4df048b2761fe083",
       "models/self-coaching-model.md": "89fdf6a80cf7bc845cb625b92bebd4fb143ed194b5a42f746de81175aec46e0c",
       "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f"
     },

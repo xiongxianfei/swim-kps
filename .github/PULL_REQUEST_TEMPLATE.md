@@ -17,5 +17,5 @@ State prerequisites, stop conditions, competing explanations, and how whole-stro
 - [ ] Distinguish personal observation from generalizable guidance
 - [ ] Maintained self-contained stages, links, and dependent local summaries
 - [ ] `python3 validate.py .` passed (or explain why it failed)
-- [ ] `python3 test_validate.py` passed (or explain why it failed)
+- [ ] `python3 -m unittest discover -s tests -v` passed (or explain why it failed)
 - [ ] No third-party copyrighted binaries or personal records included

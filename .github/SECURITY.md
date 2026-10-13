@@ -19,4 +19,4 @@ If a published Method or Practice appears to encourage unsafe breath restriction
 This repository also contains a Python validator and GitHub workflow. Before public launch, the maintainer should enable a confidential vulnerability-reporting route or provide a contact; do not post exploit details, personal identifiers or secrets in public issues.
 
 ## Deeper knowledge
-[Swim safety](SAFETY.md) · [Contributing](CONTRIBUTING.md) · [Code of conduct](CODE_OF_CONDUCT.md).
+[Swim safety](../SAFETY.md) · [Contributing](CONTRIBUTING.md) · [Code of conduct](CODE_OF_CONDUCT.md).

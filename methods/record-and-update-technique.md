@@ -58,7 +58,7 @@ An update needs an actual supporting observation, not merely a citation to coach
 Records may contain sensitive health/performance information. Keep private by default; do not fabricate completion or diagnosed mechanisms.
 
 ## Template
-[Swim session record template](../SESSION-TEMPLATE.md) is intentionally blank. Create a local records subfolder only when a real record exists.
+[Swim session record template](../guides/SESSION-TEMPLATE.md) is intentionally blank. Create a local records subfolder only when a real record exists.
 
 ## Local evidence summary
 

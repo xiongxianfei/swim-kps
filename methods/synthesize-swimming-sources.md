@@ -59,7 +59,7 @@ Every important assertion has an inspected support location or an explicit infer
 No clinical diagnosis from research snippets, paid-text claim without access, or universal rule derived from elite performance. External sources do not confirm your current technique.
 
 ## Worked synthesis
-[Swimming source synthesis — evidence, inference and disagreement](../SOURCE-SYNTHESIS.md) compares breaststroke arm guidance and preserves a real disagreement over front-crawl entry cues. Reference records are local Markdown only, not copies of publications.
+[Swimming source synthesis — evidence, inference and disagreement](../docs/SOURCE-SYNTHESIS.md) compares breaststroke arm guidance and preserves a real disagreement over front-crawl entry cues. Reference records are local Markdown only, not copies of publications.
 
 ## Local evidence summary
 

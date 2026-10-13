@@ -19,4 +19,4 @@ Read the local Summary and claim contribution, then examine the scope and what t
 Reference record content is identical between navigation editions apart from internal destination encoding. The external URLs are not rewritten. Previous inspection notes are historical metadata; this release's access extent states what was actually rechecked. Official documentation describes a product's interface; it is not a test of KPS efficacy.
 
 ## Navigation
-Use the [Reference index](../INDEX.md#reference-records) for publication names and [Package navigation](../NAVIGATION.md) for profile-specific links.
+Use the [Reference index](../docs/INDEX.md#reference-records) for publication names and [Package navigation](../docs/NAVIGATION.md) for profile-specific links.

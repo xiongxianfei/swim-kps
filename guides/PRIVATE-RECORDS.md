@@ -22,4 +22,4 @@ Use the [blank session template](SESSION-TEMPLATE.md) in a separate private fold
 If later included, label invented examples as **fictional**, independent case reports as **individual observations**, and tentative mechanisms as **hypotheses**. Do not fabricate successful swim sessions or infer ability from a template.
 
 ## Deeper knowledge
-[Contributing](CONTRIBUTING.md) · [Session template](SESSION-TEMPLATE.md) · [Source review](SOURCE-REVIEW.md).
+[Contributing](../.github/CONTRIBUTING.md) · [Session template](SESSION-TEMPLATE.md) · [Source review](../docs/SOURCE-REVIEW.md).
