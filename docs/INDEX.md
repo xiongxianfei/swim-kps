@@ -111,4 +111,4 @@ This independent package contains 55 knowledge objects and 24 structured externa
 
 ## Release support
 
-[Source review](SOURCE-REVIEW.md), [Compatibility](COMPATIBILITY.md), [Navigation](NAVIGATION.md), [Checks](history/4.0.1-checks.md) and [Release](history/4.0.1-release.md) describe what this edition includes and what remains untested.
+[Source review](SOURCE-REVIEW.md), [Compatibility](COMPATIBILITY.md), [Navigation](NAVIGATION.md), [Maintenance](MAINTENANCE.md) and [Publishing](PUBLISHING.md) describe what this edition includes and what remains untested.

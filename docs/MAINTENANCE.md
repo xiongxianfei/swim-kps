@@ -11,7 +11,7 @@ Read the Markdown directly and use the pinned validator with focused local check
 
 ## Summary
 
-The five knowledge folders and supporting Reference records retain their identities and content. Reader aids live in `guides/`; authoring, library indexes and review guidance live in `docs/`; earlier release records live in `docs/history/`. Safety remains prominently available at the root.
+The five knowledge folders and supporting Reference records retain their identities and content. Reader aids live in `guides/`; authoring, library indexes and review guidance live in `docs/`; obsolete release reports remain available in Git history. Safety remains prominently available at the root.
 
 ## Commands and purpose
 
@@ -57,12 +57,10 @@ Update bookmarks to the paths below. Old root document URLs do not automatically
 | `CONTRIBUTING.md` | [.github/CONTRIBUTING.md](../.github/CONTRIBUTING.md) |
 | `CODE_OF_CONDUCT.md` | [.github/CODE_OF_CONDUCT.md](../.github/CODE_OF_CONDUCT.md) |
 | `SECURITY.md` | [.github/SECURITY.md](../.github/SECURITY.md) |
-| `CHECKS.md` | [docs/history/4.0.1-checks.md](../docs/history/4.0.1-checks.md) |
-| `RELEASE.md` | [docs/history/4.0.1-release.md](../docs/history/4.0.1-release.md) |
 
 ## Review boundaries
 
-The historical [4.0.1 check report](history/4.0.1-checks.md) records earlier checks. Report current results with each change. These checks do not establish safety, competence, scientific truth or independent expert review. Actual personal session records remain outside this public library.
+Report current results in each change PR. Obsolete execution logs and release reports are not retained in the current tree. These checks do not establish safety, competence, scientific truth or independent expert review. Actual personal session records remain outside this public library.
 
 ## Layout dependency review
 
