@@ -1,7 +1,7 @@
 ---
 package_version: "4.0.1"
 language: "KPS 9.x"
-reviewed: "2026-10-07"
+reviewed: null
 ---
 
 # Swim authoring and maintenance guidance
@@ -11,6 +11,12 @@ KPS Core defines valid KPS 9.x documents; Swim adds swimming-specific evidence, 
 
 ## Summary
 Follow the [authoritative KPS 9.x authoring contract](https://github.com/xiongxianfei/knowledge-practice-system/blob/8fd410d1a8dec8b3e38352c9166639906049ec55/AUTHORING.md) for knowledge roles, filenames, YAML metadata, self-contained content, `Stage1` headings, links and structural checks. The guidance below concerns swim-specific decisions and review. This repository is readable and its structural checker runs without another repository checked out.
+
+## Subject navigation
+
+The authored [subject map](subject-map.md) belongs to shared knowledge navigation. Select topics and relationships from established accounts within the swimming scope, then align existing explanations with each topic in the same table row. Identify partial coverage, source-only records and missing explanations there. A topic may draw on several roles, and an explanation may support several topics. Keep useful overlap and preserve source disagreements.
+
+Practices own their activities, order and safety prerequisites. The map owns the subject outline; the [index](INDEX.md) owns the file inventory. Retain the five role folders. The map is an optional navigation document, with no new knowledge type, generated artifact or upgrade to the pinned KPS contract.
 
 ## Swimming claims and limits
 - Keep observations, interpretations, explanations and actionable trial suggestions distinguishable.
