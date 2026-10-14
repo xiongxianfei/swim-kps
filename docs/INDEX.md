@@ -12,7 +12,7 @@ Start from the real task, then use a locally complete file. The index is navigat
 ## Summary
 This independent package contains 55 knowledge objects and 24 structured external Reference records. Perspective is metadata. Sources, validation tools and publication notes are supporting infrastructure, not further knowledge types.
 
-Explore topics and their relationships in the [swimming subject map](subject-map.md), where existing explanations are aligned with each topic. This page lists files by role.
+Explore topics and their relationships in the [Swimming Body of Knowledge Outline](body-of-knowledge-outline.md), where existing explanations are aligned with each topic. This page lists files by role.
 
 ## Concept files
 

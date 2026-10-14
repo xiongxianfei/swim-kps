@@ -17,7 +17,7 @@ These repository-wide instructions apply to knowledge, code, tools and workflows
 
 ## Project purpose
 
-Help readers understand breaststroke and front crawl and use bounded, evidence-aware self-coaching Practices. Use the [subject map](docs/subject-map.md) for connected topics and the [index](docs/INDEX.md) for explanations. Reading this library does not establish competence or replace appropriate in-person supervision.
+Help readers understand breaststroke and front crawl and use bounded, evidence-aware self-coaching Practices. Use the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md) for connected topics and the [index](docs/INDEX.md) for explanations. Reading this library does not establish competence or replace appropriate in-person supervision.
 
 ## Core Engineering Principles
 

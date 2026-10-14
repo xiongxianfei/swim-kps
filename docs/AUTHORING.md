@@ -12,11 +12,11 @@ KPS Core defines valid KPS 9.x documents; Swim adds swimming-specific evidence, 
 ## Summary
 Follow the [authoritative KPS 9.x authoring contract](https://github.com/xiongxianfei/knowledge-practice-system/blob/8fd410d1a8dec8b3e38352c9166639906049ec55/AUTHORING.md) for knowledge roles, filenames, YAML metadata, self-contained content, `Stage1` headings, links and structural checks. The guidance below concerns swim-specific decisions and review. This repository is readable and its structural checker runs without another repository checked out.
 
-## Subject navigation
+## Body of Knowledge Outline
 
-The authored [subject map](subject-map.md) belongs to shared knowledge navigation. Select topics and relationships from established accounts within the swimming scope, then align existing explanations with each topic in the same table row. Identify partial coverage, source-only records and missing explanations there. A topic may draw on several roles, and an explanation may support several topics. Keep useful overlap and preserve source disagreements.
+The authored [Body of Knowledge Outline](body-of-knowledge-outline.md) defines required coverage and introductory depth from established accounts within the swimming scope. Use direct topic headings with a central question, scope, components and relationships, and meaningful interfaces. Align existing explanations and gaps with the required topics. A Model explains a coherent system; a heading does not require a separate Model, and interfaces do not disqualify it from being a subsystem. Preserve useful overlap and source disagreements.
 
-Practices own their activities, order and safety prerequisites. The map owns the subject outline; the [index](INDEX.md) owns the file inventory. Retain the five role folders. The map is an optional navigation document, with no new knowledge type, generated artifact or upgrade to the pinned KPS contract.
+Practices own activities, order and safety prerequisites. The outline owns coverage; the [index](INDEX.md) owns the file inventory. Retain the five role folders. Keep one overall illustration aligned with the outline; other illustrations are optional and user-selected. Embed it without a redundant full-size link. Maintain the Markdown directly, without a generator, new knowledge type or change to the pinned authoring contract.
 
 ## Swimming claims and limits
 - Keep observations, interpretations, explanations and actionable trial suggestions distinguishable.

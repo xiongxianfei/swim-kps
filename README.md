@@ -12,9 +12,9 @@ Explore evidence-aware, self-contained breaststroke and freestyle self-coaching 
 ## Summary
 Swim KPS is a public, open-source self-coaching knowledge package for swimmers and contributors—not a swimming-instructor curriculum, individualized assessment, medical recommendation or substitute for in-person supervision. The two stroke Practices include reference movements, the reasons for trying them, executable procedures, troubleshooting and blank current-technique summaries. No ability, distance achievement, pain diagnosis or completed session has been inferred.
 
-![Swim KPS overview linking breaststroke and front crawl with water competence and air access, movement and forces, effort and endurance, learning and feedback, and observation and evidence](diagrams/subject-map.png)
+![Fifteen direct swimming topics and selected interfaces, from water competence and stroke components to coordination, pacing, learning and measurement](diagrams/body-of-knowledge-overview.png)
 
-Explore the [subject map](docs/subject-map.md) for topic explanations and links. The illustration shows selected subject connections, not a lesson sequence or precise stroke demonstration.
+Explore the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md) for central questions, required understanding, subsystem interfaces and gaps. The illustration shows selected connections, not a lesson sequence or precise stroke demonstration.
 
 ## Start safely
 Begin with [Start here](guides/START-HERE.md) and the inline safety boundary of the selected Practice: [Self coach breaststroke](practices/self-coach-breaststroke.md) or [Self coach freestyle](practices/self-coach-freestyle.md). Breaststroke has eight stages and freestyle seven; each supplies a summary, understanding, procedure, observations and next/fallback.
@@ -23,7 +23,7 @@ Self-coaching means choosing your learning question, not swimming alone. Use a s
 
 ## Explore by subject
 
-The [swimming subject map](docs/subject-map.md) connects water competence and air access, movement and forces, breaststroke, front crawl, effort and endurance, learning, and observation. Each topic has its existing explanations beside it, with partial coverage and gaps stated. Use the map to find knowledge; use the Practices for activities and their prerequisites.
+The [Swimming Body of Knowledge Outline](docs/body-of-knowledge-outline.md) lists direct topics with scope, components, relationships and interfaces. Coverage tables preserve all 34 existing topics; a review of the eight Models distinguishes focused explanations from whole-stroke integration. Start with the [breaststroke kick worked comparison](models/breaststroke-kick-model.md#worked-comparison) to see how kick, forces, balance and timing connect. Use the Practices for activities and their prerequisites.
 
 ## Structure and reading profile
 The five core folders are `concepts/`, `principles/`, `models/`, `methods/` and `practices/`. `references/` holds Markdown records identifying external publications and their actual contributions. No original source binaries, platform-specific editions or sibling-package files are required.
