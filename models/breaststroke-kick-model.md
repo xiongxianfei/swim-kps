@@ -24,6 +24,12 @@ Distinguish preparation, useful interaction and completion without requiring one
 
 Separate preparation, interaction with water and return toward length. The kick connects to net forces, body balance, air access and whole-stroke timing. A recognisable supported sequence does not establish free-swimming propulsion or transfer. The worked comparison shows which additional relationships matter while keeping the cause of an observed difficulty unresolved.
 
+## Overall illustration
+
+![Breaststroke kick sequence from heel recovery through foot preparation and water interaction to completion, connected to force and resistance, support and balance, breaststroke timing, and breathing.](../diagrams/breaststroke-kick-overview.png)
+
+The central panel represents the kick subsystem; the four surrounding panels explain its interfaces. Symbols are conceptual, not leg positions or force measurements. The sequence names events without prescribing fixed pauses or joint angles. [Generation prompt](../diagrams/breaststroke-kick-overview.prompt.txt).
+
 ## Local explanatory basis
 
 Changing limb orientation and motion can change the direction and useful contribution of the interaction with water. Performance under a simplified drill’s conditions does not by itself establish performance under whole-stroke conditions. A pain report at a joint does not uniquely identify the movement error or tissue condition responsible.
@@ -76,6 +82,10 @@ For the whole swimmer, the force account is `sum of external forward forces = ma
 ## Worked comparison
 
 **Constructed teaching example:** the following descriptions are hypothetical, not recordings or observations of a learner. They explain what a comparison could mean; they are not instructions to reproduce these situations.
+
+![Three hypothetical kick descriptions distinguish a supported sequence without travel, kick completion during arm return, and omitted preparation while attention is on breathing. Each separates observation, interface and interpretation.](../diagrams/breaststroke-kick-comparison.png)
+
+The strips highlight selected events, not every phase or a measured timeline. The dashed preparation marker describes an omission in one hypothetical case; it does not identify its cause. [Generation prompt](../diagrams/breaststroke-kick-comparison.prompt.txt).
 
 | Description | What the kick Model establishes | What its interfaces add |
 |---|---|---|
