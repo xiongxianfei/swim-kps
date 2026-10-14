@@ -111,6 +111,6 @@ Explore topics and their relationships in the [Swimming Body of Knowledge Outlin
 - [Freestyle Kick The Complete Guide](../references/us-masters-swimming-undated-freestyle-kick.md)
 - [Freestyle Pull The Complete Guide](../references/us-masters-swimming-undated-freestyle-pull.md)
 
-## Release support
+## Supporting documentation
 
-[Source review](SOURCE-REVIEW.md), [Compatibility](COMPATIBILITY.md), [Navigation](NAVIGATION.md), [Maintenance](MAINTENANCE.md) and [Publishing](PUBLISHING.md) describe what this edition includes and what remains untested.
+[Source synthesis](SOURCE-SYNTHESIS.md) explains evidence choices; [Reference records](../references/README.md) retain inspection limits. [Maintenance](MAINTENANCE.md) covers checks, [Contributing](../.github/CONTRIBUTING.md) covers authoring and review, and the [README](../README.md#package-and-language-versions) explains compatibility.

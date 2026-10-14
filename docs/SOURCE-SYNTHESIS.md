@@ -62,11 +62,11 @@ The earlier [arm-kinematics record](../references/gourgoulis-2022-breaststroke-a
 **Authored safety application:** each stage includes a known finish and fallback. Pain or unreliable recovery routes out of the comparison. A camera, companion or flotation aid cannot be assumed to supply competent close assistance.
 
 ## What was checked and what was not
-Current access is recorded in [Source review](SOURCE-REVIEW.md). The public safety, physiology and coaching pages and selected NASA, OpenStax and Cochrane material were inspected. Two swimming research endpoints did not yield usable full article content; inherited extracts are qualified rather than presented as newly verified. Embedded demonstration videos were not independently analyzed. No swimmer was observed, no coach independently approved this package, and no self-coaching outcome was measured.
+Access for the dated synthesis is recorded in the [publication records](../references/README.md#inspection-scope-and-history). The public safety, physiology and coaching pages and selected NASA, OpenStax and Cochrane material were inspected. Two swimming research endpoints did not yield usable full article content; inherited extracts are qualified rather than presented as newly verified. Embedded demonstration videos were not independently analyzed. No swimmer was observed, no coach independently approved this package, and no self-coaching outcome was measured.
 
 The 15-stage organization, six-field cards, decision gates, comparison plan and dependency tracking are authored KPS design. Agreement between linked sources does not validate those design choices. The staged Practice is provisional for an individual, even where a component fact is well supported.
 
-[Refinement audit](REVIEW.md) · [Reference index](../references/README.md) · [Home](../README.md).
+[Content review guidance](../.github/CONTRIBUTING.md) · [Reference index](../references/README.md) · [Home](../README.md).
 
 ## Updated access and exclusion review
 

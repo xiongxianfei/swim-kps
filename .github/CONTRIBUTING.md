@@ -1,41 +1,63 @@
 ---
 package_version: "4.0.1"
 language: "KPS 9.x"
-reviewed: "2026-10-07"
+reviewed: null
 ---
 
 # Contributing to Swim KPS
 
 ## Key takeaway
-Contribute clear, safe, evidence-aware corrections and reusable self-coaching knowledge, not universal instructions inferred from one swimmer.
+
+Make a focused, source-grounded improvement that readers can understand and use within its stated boundaries.
 
 ## Summary
-Contribute clear, safe, evidence-aware corrections and reusable self-coaching knowledge, not universal instructions inferred from one swimmer.
 
-## Before contributing
-Read [Swim safety](../SAFETY.md), [Swim authoring guidance](../docs/AUTHORING.md), the [KPS Core authoring contract](https://github.com/xiongxianfei/knowledge-practice-system/blob/8fd410d1a8dec8b3e38352c9166639906049ec55/AUTHORING.md), and the [Source review](../docs/SOURCE-REVIEW.md). Keep private or identifying session records outside this public repository. Do not upload another person's video, diagnoses or health history.
+Use one branch and PR for a reviewable change. The [pinned KPS authoring contract](https://github.com/xiongxianfei/knowledge-practice-system/blob/8fd410d1a8dec8b3e38352c9166639906049ec55/AUTHORING.md) defines the shared document roles and format; this guide contains Swim-specific authoring, navigation and contribution instructions. [Maintenance](../docs/MAINTENANCE.md) owns the check commands.
 
-## What belongs here
-- Corrections to a specific Concept, Principle, Model, Method, Practice or Reference claim, with precise file and section.
-- Better distinctions, bounded hypotheses and evidence-checked explanations.
-- Safer self-coaching procedures, observable success/counter-signals and stop/fallback routes.
-- Improved access to the two substantial self-coaching Practices, without turning them into a rigid instructor curriculum.
+## Authoring swimming knowledge
 
-A contribution based on personal experience should identify itself as **one observation**, and describe what it does not establish. Generalized instructions require separate direct support and clear limitations.
+Follow [Safety](../SAFETY.md) and preserve the package's declared KPS format. Keep observations, interpretations, explanations and proposed trials distinguishable. A personal cue or successful attempt does not establish a general mechanism. Keep procedures self-contained, including prerequisites, rationale, observations, counter-signals and fallback; do not move essential instructions behind links.
 
-## Report an issue
-Use a knowledge-correction or safety-concern issue template. For possible immediate danger, do not rely on an asynchronous public GitHub issue or swimming advice; stop the activity and use appropriate in-person safety or emergency channels. For private disclosures use a maintainer contact only after it has been configured; GitHub issues are public.
+Changes affecting air access, breath control, water depth, unsupported skills, pain or injury must state the intended population and stop conditions. Do not prescribe breath restriction, hyperventilation, forced repetitions, painful movement or rehabilitation through a stroke cue. A medically concerning symptom requires appropriate qualified help. Keep unverified physical claims qualified or excluded.
 
-## Prepare a pull request
-1. Identify the claim/question, exact affected file(s), population/task scope and intended improvement.
-2. Explain the rationale and cite inspected publications, stating abstract-only/full-text access, disagreement and limits.
-3. State safe prerequisites, contraindications, observation, success signals and fallback if an actionable Method/Practice changes.
-4. Maintain a self-contained local procedure and link targets. Preserve the `Stage1`, `Stage2` recommended-order convention from KPS Core.
-5. Review dependent summaries and metadata. Run `python3 validate.py .` and `python3 -m unittest discover -s tests -v`.
-6. Explain what you did not test. Do not claim scientific validation simply because automated checks pass.
+Use the [source synthesis](../docs/SOURCE-SYNTHESIS.md) to compare claims and alternatives. [Reference records](../references/README.md) identify publications, actual inspection scope, source families and non-claims. Preserve disagreements and access limits; citation count is not independent evidence count. Sources and figures remain subject to their own rights.
 
-## Rights and license
-By submitting content, confirm you have the rights to submit it under this repository's proposed [MIT license](../LICENSE). Provide attribution and an external link rather than uploading someone else's article, images or videos. Scientific citations are not copyright permission.
+## Body of Knowledge Outline
 
-## Review standards
-Maintainers assess local completeness, evidence quality, independence, plausible counterevidence, safety, copyright, privacy, compatibility and usability for supervised self-coaching. A reviewer may request additional limits or decline a claim that exceeds the available support.
+Maintain [required coverage and introductory depth](../docs/body-of-knowledge-outline.md) from established accounts within the swimming scope. Use direct topic headings with a central question, scope, components, relationships and meaningful interfaces. Align explanations and gaps with each topic; preserve overlap. A Model explains a coherent system, and a heading does not require a separate Model file.
+
+The outline owns coverage, the [index](../docs/INDEX.md) owns file inventory, and Practices own activity order and safety prerequisites. Keep one overview illustration aligned with the text; additional pictures are optional and user-selected. Embed images without redundant full-size links. Maintain the Markdown directly; retain the five knowledge roles and pinned authoring contract.
+
+## Links and stage headings
+
+Use UTF-8 Markdown with LF, ordinary relative file links and the actual destination heading. The package's conservative heading profile uses English letters, digits and single spaces, with lowercase hyphenated fragments. For example, `## Stage1 Breathing and air access` has the fragment `#stage1-breathing-and-air-access`; neither `#stage1` alone nor a YAML identity creates that target.
+
+`StageN` numbers express recommended order, not entry permission or permanent identity. Keep stage labels such as **Goal** and **Next** bold rather than creating repeated ambiguous headings. When renaming a file or reordering a stage, repair its stage map, incoming links and affected dependency records. Personal records should identify the stage name and Practice version, not just its number. Existing links into earlier releases may still need that earlier version.
+
+Use document-relative paths including `.md`, with matching case. Avoid wiki-links, manual HTML anchors and viewer-specific editions. Check relevant file links and heading links in an ordinary Markdown viewer, including its back navigation; parser success does not certify every renderer. The [GitHub](../references/github-undated-markdown-formatting.md), [MkDocs](../references/mkdocs-undated-writing-your-docs.md) and [Python Markdown](../references/python-markdown-undated-toc-extension.md) records describe the inspected support and its limits.
+
+## Privacy and rights
+
+Keep personal session records outside the public repository and the [public session template](../guides/SESSION-TEMPLATE.md) blank. Public examples must distinguish constructed teaching examples, hypotheses and actual observations published with permission. Do not publish identifying health information, another person's footage or restricted source material without authorization. See [Private records](../guides/PRIVATE-RECORDS.md).
+
+Submit only material you have the rights to contribute under the [MIT license](../LICENSE). Preserve attribution and link to external publications rather than copying them; a citation does not grant reuse rights.
+
+## Review
+
+Choose a representative bounded question, hide outgoing links and check whether the document supplies the explanation or permitted action without missing essential conditions. Concepts need clear distinctions; Principles need scoped explanatory relationships; Models need representations and assumptions; Methods and Practices need executable local content and fallback. Restore links and check that receiving summaries preserve their sources' meanings and limits. Record actual findings rather than prefilling a successful result.
+
+Safety-, evidence- and human-experience-related changes require meaningful separate human review. Maintainers assess evidence, counterevidence, scope, privacy, rights, compatibility and usability; they may request narrower claims or decline unsupported ones. Automated checks establish structure, not swimming safety, scientific validity or individual suitability. Inspect changed Practices in rendered Markdown.
+
+## Pull requests and releases
+
+1. Inspect the branch and local work; preserve unrelated changes. Identify the owning file, question and intended improvement.
+2. Make the smallest coherent change and update affected links, summaries and metadata. State source access and applicable limits when claims change.
+3. Run the [maintenance checks](../docs/MAINTENANCE.md). Report actual local results and remote CI separately; record current review results in the PR.
+4. Open one focused PR to `main` when publication is authorized. The repository owner is the initial maintainer and decides acceptance under the existing permissions and branch protections. Acceptance concerns the change, not endorsement of a contributor's abilities.
+5. Merge only within owner authorization. Create tags and official releases only when explicitly requested; preserve licensing and attribution.
+
+Swim content versions evolve independently of KPS language versions. Before changing compatibility or the checker pin, compare the required meanings, metadata, stage semantics and navigation contract, then review representative documents and record the tested version. Breaking authoring requirements need a language-major review; optional features requiring a later release need an explicit minimum. The declarations in [publication metadata](../publication.json) are not proof that future releases have been tested.
+
+## Issues
+
+Use the knowledge-correction or safety-concern issue template with the affected claim and proposed correction. GitHub issues are public. Immediate danger requires appropriate local assistance rather than an asynchronous issue. Use a private maintainer contact only after one has been configured.
