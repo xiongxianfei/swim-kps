@@ -1,0 +1,18 @@
+Use case: scientific-educational.
+Create a high-quality landscape 4:3 illustrated overview for a swimming knowledge library. Premium editorial infographic: warm ivory paper, deep navy typography, restrained watercolor aqua and pale gold accents, generous whitespace and exceptionally readable headings. All labels exact. Use small abstract water, rhythm, balance and learning motifs. No swimmers demonstrating technique, no joint-angle diagrams, no prescribed force, breath count or exercise. No watermarks, extra slogans or invented labels.
+Title: "Swimming Body of Knowledge"
+Subtitle: "Surface breaststroke and front crawl"
+Layout: fifteen equal peer cards in a 3-column by 5-row grid. No parent grouping panels, category names, learning stages or numbering. Each card has its exact title and one small tasteful icon, no description.
+Row 1: "Water competence" | "Buoyancy and body balance" | "Propulsion and resistance"
+Row 2: "Breathing and air access" | "Breaststroke arm action" | "Breaststroke kick"
+Row 3: "Breaststroke coordination" | "Front crawl arm action" | "Flutter kick"
+Row 4: "Front crawl body rotation" | "Front crawl coordination" | "Effort and pacing"
+Row 5: "Training and adaptation" | "Learning and feedback" | "Observation and measurement"
+Icons should distinguish ideas with water ripples, balanced shapes, opposed flow arrows, air bubbles, curved path marks, alternating dots, rhythm overlaps, simple clocks, a book, and observation marks. Icons are conceptual, not anatomical or movement instructions. Never use a breath-holding timer or underwater endurance imagery.
+Below the grid, provide three concise interface statements as a readable footer, using exactly these words:
+"Kick ↔ Coordination: relative timing"
+"Rotation ↔ Breathing: air access"
+"Measurement ↔ Learning: observations"
+These statements are selected relationships between the named topics, not an extra topic category. No enclosing parent box.
+Bottom small line: "See the outline for scope, explanations and gaps."
+All fifteen titles must be fully visible. Prioritise text legibility over decoration. No duplicate topics or new labels.

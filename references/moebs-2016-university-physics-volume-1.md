@@ -1,10 +1,10 @@
 ---
 id: "swim:r:physics"
 type: "reference"
-version: "4.0.1"
+version: "4.0.2"
 language: "KPS 9.x"
-status: "active"
-reviewed: "2026-10-07"
+status: "draft"
+reviewed: null
 source_type: "textbook"
 creator: "William Moebs, Samuel J. Ling and Jeff Sanny; OpenStax"
 publication_year: 2016
@@ -63,6 +63,10 @@ In the constant-mass classical approximation, net external force determines cent
 A force’s rotational effect depends on its direction and moment arm; hydrostatic buoyancy equals the weight of displaced fluid.
 
 **Locator:** [Section 10.6 — Torque](https://openstax.org/books/university-physics-volume-1/pages/10-6-torque) and [Section 14.4 — Buoyancy](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
+
+## Additional inspection on 2026 10 14
+
+[Section 11.2 Angular Momentum](https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum) was inspected in HTML for the relation between net external torque and the change in total angular momentum of a system about a specified origin. It supplies a general mechanical constraint, not a rigid-body model of a swimmer or a prediction of torso roll. Earlier inspection fields above retain their original scope and date.
 
 ## What this source does not establish
 

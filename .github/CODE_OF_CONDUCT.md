@@ -22,4 +22,4 @@ Harassment, threats, discriminatory abuse, publication of identifiable session r
 This applies to repository discussions, issues, pull requests and official community spaces. Do not use public issues for identifying or sensitive reports. The owner must configure a real confidential maintainer contact before relying on private misconduct reports; GitHub's platform abuse controls remain available meanwhile.
 
 ## Deeper knowledge
-[Contributing](CONTRIBUTING.md) · [Governance](../docs/GOVERNANCE.md).
+[Contributing](CONTRIBUTING.md) · [Maintainer and release responsibilities](CONTRIBUTING.md#pull-requests-and-releases).

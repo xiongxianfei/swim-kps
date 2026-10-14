@@ -1,0 +1,33 @@
+Use case: scientific-educational.
+Asset type: high-quality landscape 3:2 illustrated comparison for the worked example in a breaststroke-kick subsystem Model. Highest practical resolution, crisp readable typography.
+Visual style: premium editorial infographic matching an ivory, deep navy, aqua and restrained gold swimming knowledge library. Subtle watercolor water textures, precise fine lines, generous whitespace. This is a conceptual comparison, not an exercise sequence. No swimmers, anatomical poses, joint angles, underwater drills, breath-holding, force gauges or fake data.
+Title exactly: "The same kick sequence can mean different things"
+Subtitle exactly: "Three constructed descriptions • Not recorded swims or practice instructions"
+
+Three equal vertical cards, left to right, with a large short title and a distinctive conceptual visual.
+Left title: "Supported sequence"
+Visual: three aqua dots joined in an event strip labeled "Recovery", "Preparation", "Completion", beside a simple wall-contact symbol. Under strip text "No forward travel".
+Text sections:
+"Observed" then "The movement sequence is present."
+"Interface" then "Wall support changes external forces and orientation."
+"Interpretation" then "No travel does not mean no interaction with water."
+
+Middle title: "Whole-stroke timing"
+Visual: same three aqua dots labeled "Recovery", "Preparation", "Completion". Above or beneath the last dot a short gold bracket with label "Arms still returning". This is a schematic relation only, not a time-scaled chart. No fixed durations or exact overlap rules.
+Text sections:
+"Observed" then "The kick sequence remains present."
+"Interface" then "Kick completion overlaps arm return."
+"Interpretation" then "This identifies a timing relationship, not a proven fault."
+
+Right title: "Preparation omitted"
+Visual: three positions labeled "Recovery", "Preparation", "Completion"; preparation represented by an empty dashed ring, other two filled aqua dots, with an unobtrusive gold attention marker labeled "Attention on breathing".
+Text sections:
+"Observed" then "Preparation is omitted in this description."
+"Interface" then "Breathing adds a coordination demand."
+"Interpretation" then "The cause remains unresolved."
+
+A wide gold-accent footer below all cards with exact takeaway:
+"Compare support, configuration and relative timing — not just whether a kick is visible."
+Smaller final line:
+"These examples do not justify stronger effort, forced joint positions or longer submersion."
+All three cases are peer examples, not steps to perform. Typography should be large, dark and sharply legible against light backgrounds. No copied source figures, extra paragraphs, logos or watermarks. No graphic implying that breathing necessarily causes the omission.

@@ -1,0 +1,23 @@
+Use case: scientific-educational.
+Asset type: high-quality landscape 3:2 educational summary illustration for a Markdown swimming subsystem Model. Render at highest practical resolution with crisp readable text. This is an original conceptual explanatory infographic, not an anatomical technique poster.
+Visual design: refined editorial science illustration, warm ivory paper, deep navy text, aqua watercolor washes, restrained gold accents, elegant typography, generous margins. Main flow and labeled connections must dominate, with subtle water textures and small conceptual symbols that clarify function. Avoid generic corporate clip art. No photographs, human figures, prescribed leg geometry, numbered exercise instructions, force-vector arrows on limbs or charts implying measured data.
+Title exactly: "Breaststroke kick"
+Subtitle exactly: "Movement sequence and connections to the whole stroke"
+
+The central large softly outlined navy panel is the subsystem boundary. Label it "LEG AND FOOT ACTION". Inside show four equally prominent rounded phase cards left to right, joined with plain sequence arrows. Each card includes exact heading and smaller exact explanation, plus a tasteful abstract motif (curved returning line, changing surface orientation, water ripples, converging lines). Do NOT depict a literal leg or foot.
+Card 1: "Heel recovery" / "Reposition the legs"
+Card 2: "Foot preparation" / "Establish a comfortable orientation"
+Card 3: "Water interaction" / "Movement with a backward component"
+Card 4: "Completion" / "Return inward toward length"
+Below the cards, inside the panel, exact line: "Configuration + movement relative to water + event timing"
+Then smaller exact line: "Events can overlap; no fixed pauses or joint angles."
+
+Arrange four smaller satellite panels around the central boundary, two above and two below. Each has a specific legible connection label on the connecting line, no anonymous arrows. Lines stop at panel boundaries and do not cross text.
+Upper left satellite: "Force and resistance" with body "Motion reflects all external forces." Connecting line label "Water interaction".
+Upper right satellite: "Body support and balance" with body "Support changes forces and orientation." Connecting line label "Configuration and support".
+Lower left satellite: "Breaststroke cycle" with body "Kick events relate to arm return." Connecting line label "Relative timing".
+Lower right satellite: "Breathing and air access" with body "Mouth clearance and ventilation also matter." Connecting line label "Shared stroke demands".
+Satellite links indicate relationships, not a guaranteed direct causal chain. Give them a clear visual hierarchy subordinate to the central four-phase flow.
+Bottom takeaway in a subtle gold strip, exact: "A visible kick sequence does not establish propulsion or whole-stroke transfer."
+Small footer exactly: "Conceptual summary • Read the Model for assumptions and limits"
+Do not add extra claims, invented numbers, logos or a watermark. Every label must be spelled correctly and completely visible. Educational precision and legibility come before decoration.

@@ -1,7 +1,7 @@
 ---
 language: "KPS 9.x"
 package_version: "4.0.1"
-reviewed: "2026-10-07"
+reviewed: null
 ---
 
 # Swim source synthesis evidence selected references and limits
@@ -61,12 +61,24 @@ The earlier [arm-kinematics record](../references/gourgoulis-2022-breaststroke-a
 
 **Authored safety application:** each stage includes a known finish and fallback. Pain or unreliable recovery routes out of the comparison. A camera, companion or flotation aid cannot be assumed to supply competent close assistance.
 
-## What was checked and what was not
-Current access is recorded in [Source review](SOURCE-REVIEW.md). The public safety, physiology and coaching pages and selected NASA, OpenStax and Cochrane material were inspected. Two swimming research endpoints did not yield usable full article content; inherited extracts are qualified rather than presented as newly verified. Embedded demonstration videos were not independently analyzed. No swimmer was observed, no coach independently approved this package, and no self-coaching outcome was measured.
+## Subsystem additions on 2026 10 14
+
+The fifteen-area outline now has a primary Model for each explanatory function. Component Models reuse the existing surface-stroke references; selected Swim England arm/body/breathing text, USMS arm/kick text, Red Cross safety tips and NHLBI gas-exchange text were rechecked. Their source families, alternative cues and limits remain as described above. These additions do not establish optimal individual technique.
+
+Three new records address previously missing distinctions:
+
+- [Anatomy and Physiology 2e](../references/betts-2022-anatomy-and-physiology.md): selected muscle-endurance mechanisms, used to explain one contribution to adaptation rather than prescribe training.
+- [IOC load consensus](../references/soligard-2016-load-in-sport.md): external workload, internal response and recovery. Only search-indexed publisher passages were available; direct retrieval failed. No numerical load or injury-risk rule is adopted.
+- [Learning versus performance](../references/soderstrom-2015-learning-versus-performance.md): the abstract distinguishes current performance from lasting learning. Full text was unavailable. It supports retention/transfer questions, not an optimal cue or feedback schedule.
+
+The [physics record](../references/moebs-2016-university-physics-volume-1.md) also records inspection of the system angular-momentum relationship. Its use in the body-rotation Model is an authored mechanical application, not a swimming-specific torque analysis. Examples throughout the Models are constructed; no swimmer outcome, training efficacy or separate human review is claimed.
+
+## Inspection limits of the earlier synthesis
+Access for the dated synthesis is recorded in the [publication records](../references/README.md#inspection-scope-and-history). The public safety, physiology and coaching pages and selected NASA, OpenStax and Cochrane material were inspected. Two swimming research endpoints did not yield usable full article content; inherited extracts are qualified rather than presented as newly verified. Embedded demonstration videos were not independently analyzed. No swimmer was observed, no coach independently approved this package, and no self-coaching outcome was measured.
 
 The 15-stage organization, six-field cards, decision gates, comparison plan and dependency tracking are authored KPS design. Agreement between linked sources does not validate those design choices. The staged Practice is provisional for an individual, even where a component fact is well supported.
 
-[Refinement audit](REVIEW.md) · [Reference index](../references/README.md) · [Home](../README.md).
+[Content review guidance](../.github/CONTRIBUTING.md) · [Reference index](../references/README.md) · [Home](../README.md).
 
 ## Updated access and exclusion review
 

@@ -1,15 +1,16 @@
 ---
 id: "swim:mo:force-and-resistance-model"
 type: "model"
-version: "4.0.1"
+version: "4.0.2"
 language: "KPS 9.x"
-status: "active"
-reviewed: "2026-10-07"
+status: "draft"
+reviewed: null
 basis_kind: "authored model with attributed inputs"
 confidence: "scope-dependent; see evaluation"
 references: ["swim:r:physics", "swim:r:drag", "swim:r:head-drag"]
 uses_principles: ["swim:p:resistance-varies-with-speed-and-configuration", "swim:p:force-direction-and-application-affect-motion"]
 uses_concepts: ["swim:c:drag", "swim:c:propulsion"]
+uses_models: ["swim:mo:body-support-and-balance-model", "swim:mo:breaststroke-arm-action-model", "swim:mo:breaststroke-kick-model", "swim:mo:stroke-measurement-model"]
 perspectives: ["fluid-dynamics", "biomechanics"]
 ---
 
@@ -38,6 +39,24 @@ sum of external forward forces = mass × forward acceleration
 ```
 
 A useful rough drag representation is `D = 0.5 × density × Cd × reference area × relative speed²`. Here D is drag force, density is the fluid mass per unit volume, Cd is the dimensionless drag coefficient under the chosen area convention, and relative speed is the body’s speed with respect to the water. Geometry, orientation, flow regime and the chosen reference area affect the coefficient. Separating all fluid forces into “propulsion” and “drag” is itself a modeling choice in an unsteady articulated swimmer.
+
+## Boundary and essential terms
+
+The system is the entire swimmer, not one hand or foot. **External forces** come from water, gravity and any contact with a wall or aid. **Acceleration** is change in velocity over time; it is not the same as speed. **Propulsion** names contributions supporting the chosen direction of travel, while **resistance** names opposing contributions under the chosen decomposition. Pressure and friction distributed over the body contribute to the resultant water force.
+
+Internal muscle forces change limb movement but do not appear as extra external thrust in the whole-body force sum. Geometry and water-relative motion connect that movement to external fluid forces. A force that changes forward motion can also contribute a turning moment depending on where and how it acts.
+
+## Interfaces
+
+| Connected Model | Relationship |
+|---|---|
+| [Body support and balance](body-support-and-balance-model.md) | Force application points and configuration enter the rotational account |
+| [Breaststroke arm action](breaststroke-arm-action-model.md) and [kick](breaststroke-kick-model.md) | Limb movement changes fluid interaction; neither component can be inferred from whole-swimmer speed alone |
+| [Stroke measurement](stroke-measurement-model.md) | Time and distance describe motion but do not separate the unseen force contributions |
+
+## Worked example
+
+**Constructed calculation:** A 70 kg whole-body approximation gaining 0.10 m/s of forward velocity in 0.50 s has mean acceleration 0.20 m/s² and mean net forward external force 14 N. That is the combined resultant, not a 14 N hand force: opposing resistance and contributions from other limbs remain unresolved. If a wall is involved, its force belongs in the same sum. The numbers illustrate Newton's relation and are not measurements of a swimmer.
 
 ## Assumptions
 Classical mechanics; a specified water-relative motion and coordinate direction. No assumption that an actively swimming body has a constant drag coefficient or a rigid shape.

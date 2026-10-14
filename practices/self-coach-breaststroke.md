@@ -572,7 +572,7 @@ No prescribed knee width, forced joint angle, exact gaze angle, glide duration, 
 
 The embedded explanation and selected procedure are deliberately repeated here so the Practice is usable without opening another document. The canonical objects retain fuller evidence and alternatives. When a linked Method, Model or source changes materially, review this Practice’s matching stage; an old inline summary does not update automatically.
 
-[Claim-by-claim source synthesis](../docs/SOURCE-SYNTHESIS.md) · [Blank session record](../guides/SESSION-TEMPLATE.md) · [Refinement and stage audit](../docs/REVIEW.md) · [Package home](../README.md)
+[Claim-by-claim source synthesis](../docs/SOURCE-SYNTHESIS.md) · [Blank session record](../guides/SESSION-TEMPLATE.md) · [Content review guidance](../.github/CONTRIBUTING.md) · [Package home](../README.md)
 
 ## Local evidence review
 

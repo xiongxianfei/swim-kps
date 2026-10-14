@@ -10,9 +10,9 @@ reviewed: null
 Start from the real task, then use a locally complete file. The index is navigation, not the explanation itself.
 
 ## Summary
-This independent package contains 55 knowledge objects and 24 structured external Reference records. Perspective is metadata. Sources, validation tools and publication notes are supporting infrastructure, not further knowledge types.
+This independent package contains 62 knowledge objects and 27 structured external Reference records. Perspective is metadata. Sources, validation tools and publication notes are supporting infrastructure, not further knowledge types.
 
-Explore topics and their relationships in the [swimming subject map](subject-map.md), where existing explanations are aligned with each topic. This page lists files by role.
+Explore topics and their relationships in the [Swimming Body of Knowledge Outline](body-of-knowledge-outline.md), where existing explanations are aligned with each topic. This page lists files by role.
 
 ## Concept files
 
@@ -46,14 +46,21 @@ Explore topics and their relationships in the [swimming subject map](subject-map
 
 ## Model files
 
-- [Body support and balance model](../models/body-support-and-balance-model.md)
-- [Breaststroke cycle model](../models/breaststroke-cycle-model.md)
-- [Breaststroke kick interaction model](../models/breaststroke-kick-model.md)
-- [Breathing and air access model](../models/breathing-and-air-access-model.md)
-- [Force and resistance model](../models/force-and-resistance-model.md)
-- [Front crawl cycle model](../models/front-crawl-cycle-model.md)
-- [Self coaching hypothesis and decision model](../models/self-coaching-model.md)
-- [Comparable swim measurement model](../models/stroke-measurement-model.md)
+- [Task readiness](../models/water-competence-model.md)
+- [Support and balance](../models/body-support-and-balance-model.md)
+- [Force and resistance](../models/force-and-resistance-model.md)
+- [Breathing and air access](../models/breathing-and-air-access-model.md)
+- [Breaststroke arm action](../models/breaststroke-arm-action-model.md)
+- [Breaststroke kick](../models/breaststroke-kick-model.md)
+- [Breaststroke cycle](../models/breaststroke-cycle-model.md)
+- [Front crawl arm action](../models/front-crawl-arm-action-model.md)
+- [Flutter kick](../models/flutter-kick-model.md)
+- [Front crawl body rotation](../models/front-crawl-body-rotation-model.md)
+- [Front crawl cycle](../models/front-crawl-cycle-model.md)
+- [Effort and pacing](../models/effort-and-pacing-model.md)
+- [Training and adaptation](../models/training-and-adaptation-model.md)
+- [Self coaching learning and feedback](../models/self-coaching-model.md)
+- [Stroke measurement](../models/stroke-measurement-model.md)
 
 ## Method files
 
@@ -111,6 +118,10 @@ Explore topics and their relationships in the [swimming subject map](subject-map
 - [Freestyle Kick The Complete Guide](../references/us-masters-swimming-undated-freestyle-kick.md)
 - [Freestyle Pull The Complete Guide](../references/us-masters-swimming-undated-freestyle-pull.md)
 
-## Release support
+- [Anatomy and Physiology 2e](../references/betts-2022-anatomy-and-physiology.md)
+- [IOC load in sport consensus](../references/soligard-2016-load-in-sport.md)
+- [Learning versus performance](../references/soderstrom-2015-learning-versus-performance.md)
 
-[Source review](SOURCE-REVIEW.md), [Compatibility](COMPATIBILITY.md), [Navigation](NAVIGATION.md), [Maintenance](MAINTENANCE.md) and [Publishing](PUBLISHING.md) describe what this edition includes and what remains untested.
+## Supporting documentation
+
+[Source synthesis](SOURCE-SYNTHESIS.md) explains evidence choices; [Reference records](../references/README.md) retain inspection limits. [Maintenance](MAINTENANCE.md) covers checks, [Contributing](../.github/CONTRIBUTING.md) covers authoring and review, and the [README](../README.md#package-and-language-versions) explains compatibility.

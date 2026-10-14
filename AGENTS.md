@@ -17,7 +17,7 @@ These repository-wide instructions apply to knowledge, code, tools and workflows
 
 ## Project purpose
 
-Help readers understand breaststroke and front crawl and use bounded, evidence-aware self-coaching Practices. Use the [subject map](docs/subject-map.md) for connected topics and the [index](docs/INDEX.md) for explanations. Reading this library does not establish competence or replace appropriate in-person supervision.
+Help readers understand breaststroke and front crawl and use bounded, evidence-aware self-coaching Practices. Use the [Body of Knowledge Outline](docs/body-of-knowledge-outline.md) for connected topics and the [index](docs/INDEX.md) for explanations. Reading this library does not establish competence or replace appropriate in-person supervision.
 
 ## Core Engineering Principles
 
@@ -41,7 +41,7 @@ Help readers understand breaststroke and front crawl and use bounded, evidence-a
 
 ## Project guidance
 
-- Read [Swim authoring](docs/AUTHORING.md) and its [pinned Core contract](https://github.com/xiongxianfei/knowledge-practice-system/blob/8fd410d1a8dec8b3e38352c9166639906049ec55/AUTHORING.md). Preserve this package's declared format instead of silently adopting a newer Core release.
+- Read [Swim contribution guidance](.github/CONTRIBUTING.md) and its [pinned Core contract](https://github.com/xiongxianfei/knowledge-practice-system/blob/8fd410d1a8dec8b3e38352c9166639906049ec55/AUTHORING.md). Preserve this package's declared format instead of silently adopting a newer Core release.
 - Keep the five knowledge roles and publication-based Reference records. Preserve self-contained summaries, safe procedures, scoped statements and real heading-derived links. `StageN` numbers express recommended order; prerequisites determine actual dependencies.
 - Follow [Safety](SAFETY.md). Do not diagnose pain, prescribe breath restriction, hyperventilation or forced repetitions, or suggest technique through pain. Maintain stop and fallback guidance.
 - Separate observations, interpretations, explanations and trial suggestions. Do not invent session results or turn a personal cue into a universal law. Safety-, evidence- and human-experience-related changes require meaningful separate human review.
