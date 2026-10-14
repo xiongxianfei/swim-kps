@@ -15,6 +15,10 @@ Explore breaststroke and front crawl by subject, with the relevant explanations 
 
 This map covers the package's supervised pool self-coaching scope. It reuses established distinctions in stroke coaching and physical explanation, with an authored selection of learning and observation topics. The outline describes the subject; the linked Practices supply activities, prerequisites and their recommended order.
 
+![Swim KPS overview linking breaststroke and front crawl with water competence and air access, movement and forces, effort and endurance, learning and feedback, and observation and evidence](../diagrams/subject-map.png)
+
+The illustration previews the subjects below. Lines show selected associations; the swimmer images identify the strokes rather than demonstrate exact technique. This is an AI-generated illustration made with the built-in image generation tool; its [generation prompt](../diagrams/subject-map.prompt.txt) is retained beside the PNG. The outline below remains the maintained text account.
+
 ## Scope
 
 The focus is surface breaststroke and front crawl, called freestyle in the existing Practice. Supporting topics concern dependable air access, movement in water and bounded self-coaching. This is a selected subject outline rather than a complete swimming curriculum. Backstroke, butterfly, racing starts and turns, underwater pullouts, open-water swimming, rescue and rehabilitation are outside the current package.

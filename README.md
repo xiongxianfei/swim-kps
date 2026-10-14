@@ -12,6 +12,10 @@ Explore evidence-aware, self-contained breaststroke and freestyle self-coaching 
 ## Summary
 Swim KPS is a public, open-source self-coaching knowledge package for swimmers and contributors—not a swimming-instructor curriculum, individualized assessment, medical recommendation or substitute for in-person supervision. The two stroke Practices include reference movements, the reasons for trying them, executable procedures, troubleshooting and blank current-technique summaries. No ability, distance achievement, pain diagnosis or completed session has been inferred.
 
+![Swim KPS overview linking breaststroke and front crawl with water competence and air access, movement and forces, effort and endurance, learning and feedback, and observation and evidence](diagrams/subject-map.png)
+
+Explore the [subject map](docs/subject-map.md) for topic explanations and links. The illustration shows selected subject connections, not a lesson sequence or precise stroke demonstration.
+
 ## Start safely
 Begin with [Start here](guides/START-HERE.md) and the inline safety boundary of the selected Practice: [Self coach breaststroke](practices/self-coach-breaststroke.md) or [Self coach freestyle](practices/self-coach-freestyle.md). Breaststroke has eight stages and freestyle seven; each supplies a summary, understanding, procedure, observations and next/fallback.
 
