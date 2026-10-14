@@ -17,7 +17,7 @@ Read the local Summary and claim contribution, then examine the scope and what t
 
 ## Inspection scope and history
 
-Each publication record owns its access date, inspected extent, claim locators, source family and limitations. Access notes inherited from the Swim 4.0.0 reconstruction remain historical; packaging release 4.0.1 did not itself add a literature inspection. Any later recheck must state its own date and extent. This documentation consolidation performs no new source inspection.
+Each publication record owns its access date, inspected extent, claim locators, source family and limitations. Access notes inherited from the Swim 4.0.0 reconstruction remain historical; packaging release 4.0.1 did not itself add a literature inspection. Any later recheck must state its own date and extent. Later subsystem work records selected reinspection in the affected Models, the physics record and three new publication records; it does not retrospectively upgrade earlier access.
 
 The retained synthesis reports no raw-data or statistical reanalysis, comprehensive systematic search, independent expert review or real-user effectiveness trial. Several records from one organization or handbook are not independent replications. KPS organisation and the source-synthesis Method are authored designs, not empirically established optima.
 

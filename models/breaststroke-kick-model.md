@@ -46,6 +46,10 @@ The question is: **How do leg-and-foot configuration and event order form a kick
 
 These are explanatory variables, not a list of ideal angles or measured forces. The phase sequence below describes events; it does not assign compulsory pauses or durations.
 
+## Essential terms
+
+**Recovery** repositions the legs for the next kick. **Preparation** establishes a usable foot/leg orientation before the main action. **Configuration** means the connected positions and orientations of the limb segments. **Water-relative movement** is movement with respect to the surrounding water, not merely relative to the torso. **Completion** names the return toward length; it is not a compulsory hold. **Transfer** means the ability to use a component within a changed task, such as a whole stroke.
+
 ## Representation
 `Heel recovery → comfortable foot preparation → backward-oriented interaction → inward completion and length`
 

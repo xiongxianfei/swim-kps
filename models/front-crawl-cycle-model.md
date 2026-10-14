@@ -1,15 +1,16 @@
 ---
 id: "swim:mo:front-crawl-cycle-model"
 type: "model"
-version: "4.0.1"
+version: "4.0.2"
 language: "KPS 9.x"
-status: "active"
-reviewed: "2026-10-07"
+status: "draft"
+reviewed: null
 basis_kind: "authored model with attributed inputs"
 confidence: "scope-dependent; see evaluation"
 references: ["swim:r:se-crawl", "swim:r:usms-crawl-pull", "swim:r:usms-crawl-kick", "swim:r:usms-crawl-breath"]
 uses_principles: ["swim:p:limb-configuration-changes-the-effect-of-effort", "swim:p:air-access-and-stroking-share-timing", "swim:p:relative-timing-changes-the-whole-stroke"]
 uses_concepts: ["swim:c:stroke-cycle", "swim:c:breathing-cycle", "swim:c:coordination"]
+uses_models: ["swim:mo:breathing-and-air-access-model", "swim:mo:flutter-kick-model", "swim:mo:front-crawl-arm-action-model", "swim:mo:front-crawl-body-rotation-model"]
 perspectives: ["respiratory-physiology"]
 ---
 
@@ -42,6 +43,25 @@ Relate alternating arm action, body rotation, kick and side breathing.
 | Kick and whole task | Manageable alternating action coexists with breathing | No universal kick count or amplitude |
 
 Source disagreement about entry and path is documented in the synthesis. The chosen fairly neutral, same-side entry is a starting reference rather than comparative proof of superior efficiency.
+
+## Boundary and essential terms
+
+This is the integration system for both arms, flutter kick, torso rotation and breathing. One **two-arm cycle** can be marked from a right-hand entry to the next right-hand entry. **Relative timing** locates a left-arm, leg or breathing event within that interval. A **phase relationship** describes this timing, not a mandated pause or an ideal count.
+
+The relationships are useful because motion in one component changes the context of another. A head turn occurs while an arm recovers and the torso rotates; the mouth's resulting position depends on their combination. Leg events also occur within this changing configuration. Describing each component separately is therefore necessary but insufficient to describe the full cycle.
+
+## Interfaces
+
+| Connected Model | Relationship |
+|---|---|
+| [Arm action](front-crawl-arm-action-model.md) | Supplies each arm's local events; this Model describes their relationship to one another |
+| [Flutter kick](flutter-kick-model.md) | Supplies alternating leg events without requiring a fixed number per arm cycle |
+| [Body rotation](front-crawl-body-rotation-model.md) | Supplies shoulder, pelvis and head orientations relative to the arm events |
+| [Breathing and air access](breathing-and-air-access-model.md) | Separates the presence of a turn from actual clearance and ventilation |
+
+## Worked example
+
+**Constructed case:** Two cycles have the same arm-entry count and leg-beat count. In the second, the breathing turn begins later relative to the recovering arm, and mouth clearance is absent. The counts did not reveal the coordination change. Event order and clearance are needed to describe it. The observation supports a timing question, not a universal instruction to hold the opposite arm still or breathe less often.
 
 ## Assumptions
 Freestyle means front crawl here. No race-rule analysis, compulsory breathing side/count, locked shoulder or rigid S-shaped path.

@@ -1,15 +1,16 @@
 ---
 id: "swim:mo:breaststroke-cycle-model"
 type: "model"
-version: "4.0.1"
+version: "4.0.2"
 language: "KPS 9.x"
-status: "active"
-reviewed: "2026-10-07"
+status: "draft"
+reviewed: null
 basis_kind: "authored model with attributed inputs"
 confidence: "scope-dependent; see evaluation"
 references: ["swim:r:se-breast", "swim:r:se-basic", "swim:r:usms-breast-pull", "swim:r:arm-kinematics"]
 uses_principles: ["swim:p:limb-configuration-changes-the-effect-of-effort", "swim:p:recovery-repositions-limbs-and-alters-resistance", "swim:p:relative-timing-changes-the-whole-stroke"]
 uses_concepts: ["swim:c:stroke-cycle", "swim:c:limb-orientation", "swim:c:coordination"]
+uses_models: ["swim:mo:body-support-and-balance-model", "swim:mo:breaststroke-arm-action-model", "swim:mo:breaststroke-kick-model", "swim:mo:breathing-and-air-access-model"]
 perspectives: ["fluid-dynamics", "biomechanics"]
 ---
 
@@ -42,6 +43,25 @@ The phases below are reference events, not fixed-duration compartments.
 | Continuity into the next cycle | A brief recognizable return followed by the next chosen action | Neither interrupted completion nor an excessive wait |
 
 A low-demand starting reference puts the arms approaching extension as the effective kick occurs. Recovery events may overlap; the model does not demand perfectly stationary legs throughout the pull. The common pull/breathe/kick/glide cue is a memory grouping, not four holds or evidence of a universal arm–leg phase relationship.
+
+## Boundary and essential terms
+
+This is the whole-stroke coordination system: arm events, leg events, body configuration and the breathing opportunity across a complete surface cycle. A **cycle** runs from one named event to its next occurrence. A **phase** is a portion of that cycle; **relative timing** is when one event occurs compared with another. **Overlap** means events can occur concurrently even when described in a sequence.
+
+The component actions interact because each changes configuration, forces or available air while the others continue. For example, arm recovery changes the body configuration during leg action; recognising a kick sequence alone does not identify the configuration during its completion. The Model locates these interactions without estimating each component's force.
+
+## Interfaces
+
+| Connected Model | Relationship |
+|---|---|
+| [Arm action](breaststroke-arm-action-model.md) | Supplies preparation, inward action and return events to place within the complete cycle |
+| [Kick](breaststroke-kick-model.md) | Supplies heel recovery, preparation and completion events; their placement matters alongside arm return |
+| [Breathing and air access](breathing-and-air-access-model.md) | Requires actual clearance and ventilation within the arm/body sequence |
+| [Body support and balance](body-support-and-balance-model.md) | Describes how changing configuration and forces relate to orientation |
+
+## Worked example
+
+**Constructed comparison:** A and B contain the same named arm and kick events. A has the arms approaching extension during the main kick; B has a delayed arm return still underway at kick completion. The difference is coordination, even if each isolated component looks recognisable. It is a question about overlapping configurations and timing, not evidence that B needs a stronger kick. The Model predicts a different combined task but does not calculate which pattern is faster for an individual.
 
 ## Assumptions
 Normal surface breaststroke, not the long underwater pullout after a racing start or turn. Timing varies with task and person.

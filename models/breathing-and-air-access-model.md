@@ -1,15 +1,16 @@
 ---
 id: "swim:mo:breathing-and-air-access-model"
 type: "model"
-version: "4.0.1"
+version: "4.0.2"
 language: "KPS 9.x"
-status: "active"
-reviewed: "2026-10-07"
+status: "draft"
+reviewed: null
 basis_kind: "authored model with attributed inputs"
 confidence: "scope-dependent; see evaluation"
 references: ["swim:r:physiology", "swim:r:se-breath", "swim:r:usms-crawl-breath", "swim:r:breath-risk"]
 uses_principles: ["swim:p:air-access-and-stroking-share-timing"]
 uses_concepts: ["swim:c:breathing-cycle", "swim:c:coordination"]
+uses_models: ["swim:mo:breaststroke-cycle-model", "swim:mo:effort-and-pacing-model", "swim:mo:front-crawl-body-rotation-model", "swim:mo:water-competence-model"]
 perspectives: ["respiratory-physiology"]
 ---
 
@@ -38,6 +39,25 @@ Clear mouth + inhalation opportunity does not guarantee adequate ventilation. Pe
 For the selected low-demand rehearsal, exhale comfortably during immersion and inhale when the mouth is clear. Nose, mouth or both are possible exhalation routes. During front crawl, a turn coordinated with the recovering side creates the candidate air window; in breaststroke the breath coordinates with the arm/body rise. These are coaching-informed references, not physiology-derived unique joint motions.
 
 Respiratory muscle action changes thoracic volume and pressures. The package does not turn “forcefully emptying creates a vacuum” imagery into a required breathing mechanism. It excludes forced emptying and reduced-breath racing tasks from beginner self-coaching.
+
+## Boundary and essential terms
+
+The system relates respiratory function to a surface-stroke breathing opportunity. **Ventilation** is air movement into and out of the lungs; **gas exchange** is transfer of oxygen and carbon dioxide between lung air and blood. **Clearance** means that the mouth actually has access to air. An **air window** is the interval during the stroke when inhalation is possible. **Demand** concerns the current task's physiological requirements; it is not directly measured by visible bubbles or a stroke count.
+
+These are separate components. The respiratory muscles change chest volume and pressure, which moves air. The stroke changes where the mouth is relative to the surface and when clearance occurs. A geometric opportunity is necessary for a surface breath but does not by itself show sufficient air movement or explain discomfort.
+
+## Interfaces
+
+| Connected Model | Relationship |
+|---|---|
+| [Breaststroke cycle](breaststroke-cycle-model.md) | Arm/body events locate a candidate clearance window relative to kick and return |
+| [Front crawl rotation](front-crawl-body-rotation-model.md) | Torso and head orientation interact with the recovery-side arm to locate the side-breath window |
+| [Effort and pacing](effort-and-pacing-model.md) | Current demand and the actual response help distinguish a timing question from a demand question |
+| [Water competence](water-competence-model.md) | Reliable air access and known recovery are entry conditions for a task |
+
+## Worked example
+
+**Constructed comparison:** In A, a head turn occurs but the mouth remains in water. This identifies absent clearance, not a reason to inhale harder. In B, the mouth clears but the swimmer reports uncomfortable breathing. Clearance alone cannot distinguish timing, ventilation, demand, anxiety or a health issue. Neither description supports compulsory fewer breaths. Unusual symptoms or unreliable air access end the task and require appropriate help.
 
 ## Assumptions
 Ordinary surface swimming at a manageable demand. No deliberate hyperventilation, breath suppression or prolonged underwater interval is included.

@@ -15,11 +15,11 @@ Understand swimming through directly named topics, then use focused subsystem Mo
 
 This outline covers the knowledge needed for the package's supervised surface breaststroke and front crawl self-coaching scope. Fifteen direct sections preserve the existing 34 coverage topics. Each section states an explanatory question, scope, components, interfaces and intended introductory understanding, with existing explanations and gaps beside the required coverage.
 
-Concepts, Principles, Models, Methods and Practices retain their roles. Topic headings do not require one Model each. Focused Models explain coherent functions; whole-stroke Models explain their integration; Practices select activities with their own prerequisites and order.
+Concepts, Principles, Models, Methods and Practices retain their roles. Every agreed subsystem has a primary, self-contained Model. In this edition all fifteen areas have an explanatory Model: focused accounts, two whole-stroke coordination accounts, and supporting readiness, learning and measurement accounts. Practices select activities with their own prerequisites and order.
 
 ## Scope and depth
 
-The target is to explain the two surface strokes, recognise what an observation can establish and formulate a bounded learning question. Reading the outline does not establish competence. Backstroke, butterfly, racing starts and turns, underwater pullouts, open-water swimming, rescue and rehabilitation remain outside this edition. Training and motor learning are necessary topics with incomplete coverage, not implemented programmes.
+The target is to explain the two surface strokes, recognise what an observation can establish and formulate a bounded learning question. Reading the outline does not establish competence. Backstroke, butterfly, racing starts and turns, underwater pullouts, open-water swimming, rescue and rehabilitation remain outside this edition. Training and motor learning have introductory accounts with explicit depth limits, not implemented programmes or comprehensive physiological and neural theories.
 
 The [Safety boundary](../SAFETY.md) governs every linked in-water task: suitable supervision and dependable breathing, stopping and support; no breath restriction or forced painful movement. First-time water competence requires appropriate in-person instruction. [Start here](../guides/START-HERE.md) and the [breaststroke](../practices/self-coach-breaststroke.md) and [front crawl](../practices/self-coach-freestyle.md) Practices own activity decisions. The outline adds no in-water procedure.
 
@@ -27,41 +27,45 @@ The [Safety boundary](../SAFETY.md) governs every linked in-water task: suitable
 
 A minimal subsystem is the smallest coherent explanatory system useful for a declared question. It has components, relationships and interfaces; it need not operate independently. Kick preparation, for example, requires leg-and-foot configuration, while its effects also depend on the surrounding stroke and task. Dividing it into isolated body-part labels would lose the explanation.
 
-A section can cover a focused subsystem, a larger integration or a necessary knowledge area whose Model boundaries still need development. Useful overlap is retained. The proposed boundaries follow established coaching and physical accounts for this purpose; they are not a universal inventory of swimming subsystems or a required lesson sequence.
+Each Model states the question, boundary, essential terms, components, relationships, representation, interfaces, a worked example and limits. Self-contained means the central explanation remains understandable with outgoing links hidden; essential definitions and interface conditions stay inline. Useful overlap is retained.
+
+The two coordination Models integrate whole strokes. Readiness, learning and measurement describe supporting systems rather than isolated anatomical mechanisms. The boundaries follow established coaching, physical and learning accounts for this purpose; they are not a universal inventory of swimming subsystems or a required lesson sequence.
 
 ## Overall illustration
 
 ![Fifteen swimming topics at the same level, including water competence, balance, forces, breathing, breaststroke and front crawl components and coordination, pacing, training, learning and measurement. Selected links identify interfaces.](../diagrams/body-of-knowledge-overview.png)
 
-One overview summarises the outline. The artwork is schematic and does not demonstrate joint positions or a stroke to copy. The footer names selected interfaces, not a complete causal diagram. [Generation prompt](../diagrams/body-of-knowledge-overview.prompt.txt).
+One overview summarises the outline. The artwork is schematic and does not demonstrate joint positions or a stroke to copy. Each illustrated topic now maps to its primary Model in the table below. The footer names selected interfaces, not a complete causal diagram. [Generation prompt](../diagrams/body-of-knowledge-overview.prompt.txt).
 
 ## Overall outline
 
-| Topic | Central question |
-|---|---|
-| [Water competence](#water-competence) | What conditions and capabilities support control, air access and stopping? |
-| [Buoyancy and body balance](#buoyancy-and-body-balance) | What determines support and body orientation in water? |
-| [Propulsion and resistance](#propulsion-and-resistance) | How do interactions with water affect movement? |
-| [Breathing and air access](#breathing-and-air-access) | How does ventilation fit the available breathing opportunity? |
-| [Breaststroke arm action](#breaststroke-arm-action) | How do preparation, pulling and recovery form an arm cycle? |
-| [Breaststroke kick](#breaststroke-kick) | How do leg and foot movements form a kick cycle? |
-| [Breaststroke coordination](#breaststroke-coordination) | How do arms, legs, breathing and body movement fit together? |
-| [Front crawl arm action](#front-crawl-arm-action) | How do entry, preparation, underwater action and recovery connect? |
-| [Flutter kick](#flutter-kick) | How does alternating leg action contribute to the whole stroke? |
-| [Front crawl body rotation](#front-crawl-body-rotation) | How does body rotation relate to arm movement and breathing? |
-| [Front crawl coordination](#front-crawl-coordination) | How do alternating arms, kicking, rotation and breathing coexist? |
-| [Effort and pacing](#effort-and-pacing) | How does the chosen pace relate to task demand and continued control? |
-| [Training and adaptation](#training-and-adaptation) | How do workload and recovery relate to changes over time? |
-| [Learning and feedback](#learning-and-feedback) | How do observations inform adjustment, retention and transfer? |
-| [Observation and measurement](#observation-and-measurement) | What can timing, counts, video and perceived effort establish? |
+| Topic | Central question | Primary Model |
+|---|---|---|
+| [Water competence](#water-competence) | What conditions and capabilities support control, air access and stopping? | [Task readiness](../models/water-competence-model.md) |
+| [Buoyancy and body balance](#buoyancy-and-body-balance) | What determines support and body orientation in water? | [Support and balance](../models/body-support-and-balance-model.md) |
+| [Propulsion and resistance](#propulsion-and-resistance) | How do interactions with water affect movement? | [Force and resistance](../models/force-and-resistance-model.md) |
+| [Breathing and air access](#breathing-and-air-access) | How does ventilation fit the available breathing opportunity? | [Breathing and air access](../models/breathing-and-air-access-model.md) |
+| [Breaststroke arm action](#breaststroke-arm-action) | How do preparation, pulling and recovery form an arm cycle? | [Breaststroke arm action](../models/breaststroke-arm-action-model.md) |
+| [Breaststroke kick](#breaststroke-kick) | How do leg and foot movements form a kick cycle? | [Breaststroke kick](../models/breaststroke-kick-model.md) |
+| [Breaststroke coordination](#breaststroke-coordination) | How do arms, legs, breathing and body movement fit together? | [Breaststroke cycle](../models/breaststroke-cycle-model.md) |
+| [Front crawl arm action](#front-crawl-arm-action) | How do entry, preparation, underwater action and recovery connect? | [Front crawl arm action](../models/front-crawl-arm-action-model.md) |
+| [Flutter kick](#flutter-kick) | How does alternating leg action contribute to the whole stroke? | [Flutter kick](../models/flutter-kick-model.md) |
+| [Front crawl body rotation](#front-crawl-body-rotation) | How does body rotation relate to arm movement and breathing? | [Front crawl body rotation](../models/front-crawl-body-rotation-model.md) |
+| [Front crawl coordination](#front-crawl-coordination) | How do alternating arms, kicking, rotation and breathing coexist? | [Front crawl cycle](../models/front-crawl-cycle-model.md) |
+| [Effort and pacing](#effort-and-pacing) | How does the chosen pace relate to task demand and continued control? | [Effort and pacing](../models/effort-and-pacing-model.md) |
+| [Training and adaptation](#training-and-adaptation) | How do workload and recovery relate to changes over time? | [Training and adaptation](../models/training-and-adaptation-model.md) |
+| [Learning and feedback](#learning-and-feedback) | How do observations inform adjustment, retention and transfer? | [Self coaching learning and feedback](../models/self-coaching-model.md) |
+| [Observation and measurement](#observation-and-measurement) | What can timing, counts, video and perceived effort establish? | [Stroke measurement](../models/stroke-measurement-model.md) |
 
 ## Reading the coverage
 
-Required understanding is stated before mapping local documents. **Partial** means linked explanations contribute without completing the topic. **Source only** means an inspected external contribution is available but no locally sufficient account exists. **Missing** identifies a needed explanation. The topic tables preserve the specific limits of their links; a Method may provide only a bounded procedure, and a source link does not establish complete coverage.
+Required understanding is stated before mapping local documents. **Introductory account** means a local Model explains the declared question with definitions, relationships, an example and limits; it does not claim mastery, independent review or exhaustive coverage. **Partial** means linked explanations contribute without completing the broader topic. **Source only** means an inspected external contribution is available but no locally sufficient account exists. **Missing** identifies a needed explanation. The topic tables preserve the specific limits of their links; a Method may provide only a bounded procedure, and a source link does not establish complete coverage.
 
 ## Water competence
 
 **Central question:** What conditions and capabilities support control, air access and stopping?
+
+**Primary Model:** [Task readiness](../models/water-competence-model.md) — introductory account.
 
 **Scope:** Readiness for the chosen supervised pool task, including assistance and a dependable way to end it. A complete beginner water-competence curriculum remains outside this package.
 
@@ -81,6 +85,8 @@ Required understanding is stated before mapping local documents. **Partial** mea
 
 **Central question:** What determines support and body orientation in water?
 
+**Primary Model:** [Support and balance](../models/body-support-and-balance-model.md) — introductory account.
+
 **Scope:** Upward support, body configuration and orientation. A static or supported posture does not determine the orientation during swimming.
 
 **Components and relationships:** Weight, displaced-water support, other external forces and their moment arms; support and rotational balance are distinct questions.
@@ -97,6 +103,8 @@ Required understanding is stated before mapping local documents. **Partial** mea
 ## Propulsion and resistance
 
 **Central question:** How do interactions with water affect movement?
+
+**Primary Model:** [Force and resistance](../models/force-and-resistance-model.md) — introductory account.
 
 **Scope:** Net external force and motion, including the limits of separating propulsion from resistance in an articulated moving swimmer.
 
@@ -115,6 +123,8 @@ Required understanding is stated before mapping local documents. **Partial** mea
 ## Breathing and air access
 
 **Central question:** How does ventilation fit the available breathing opportunity?
+
+**Primary Model:** [Breathing and air access](../models/breathing-and-air-access-model.md) — introductory account.
 
 **Scope:** The relation between breathing demand, actual mouth clearance and stroke timing. This does not diagnose a health condition or prescribe one breathing count.
 
@@ -135,6 +145,8 @@ Required understanding is stated before mapping local documents. **Partial** mea
 
 **Central question:** How do preparation, pulling and recovery form an arm cycle?
 
+**Primary Model:** [Breaststroke arm action](../models/breaststroke-arm-action-model.md) — introductory account.
+
 **Scope:** The surface arm cycle. This does not include the long underwater pullout after a racing start or turn.
 
 **Components and relationships:** Hand and forearm preparation, inward action and forward recovery; recovery prepares the next action while changing configuration.
@@ -151,6 +163,8 @@ Required understanding is stated before mapping local documents. **Partial** mea
 
 **Central question:** How do leg and foot movements form a kick cycle?
 
+**Primary Model:** [Breaststroke kick](../models/breaststroke-kick-model.md) — introductory account.
+
 **Scope:** Preparation, interaction with water and completion in surface breaststroke. The boundary includes the leg configuration needed to explain the feet, rather than treating a foot as an independent mechanism.
 
 **Components and relationships:** Heel recovery, foot preparation, leg and foot orientation, movement through water and return toward length. The [kick Model](../models/breaststroke-kick-model.md) represents these relationships.
@@ -166,6 +180,8 @@ Required understanding is stated before mapping local documents. **Partial** mea
 ## Breaststroke coordination
 
 **Central question:** How do arms, legs, breathing and body movement fit together?
+
+**Primary Model:** [Breaststroke cycle](../models/breaststroke-cycle-model.md) — introductory account.
 
 **Scope:** Integration across one surface-stroke cycle. This is a whole-stroke account with interfaces to focused subsystems, not a minimal limb mechanism.
 
@@ -184,6 +200,8 @@ Required understanding is stated before mapping local documents. **Partial** mea
 
 **Central question:** How do entry, preparation, underwater action and recovery connect?
 
+**Primary Model:** [Front crawl arm action](../models/front-crawl-arm-action-model.md) — introductory account.
+
 **Scope:** One arm cycle in the context of alternating arms. A focused account must preserve source disagreement about entry and path.
 
 **Components and relationships:** Entry, hand and forearm preparation, underwater action, exit and recovery; the opposite arm has its own concurrent cycle.
@@ -200,7 +218,9 @@ Required understanding is stated before mapping local documents. **Partial** mea
 
 **Central question:** How does alternating leg action contribute to the whole stroke?
 
-**Scope:** Alternating leg action alongside arms and breathing. Fuller component and interaction explanations remain to be developed.
+**Primary Model:** [Flutter kick](../models/flutter-kick-model.md) — introductory account.
+
+**Scope:** Alternating leg action alongside arms and breathing, including configuration, beat conventions and timing. Individual force allocation and energetic cost remain outside scope.
 
 **Components and relationships:** Alternating leg movements, configuration and timing; the existing guidance relates kick action to whole-task demand rather than prescribing one count.
 
@@ -216,7 +236,9 @@ Required understanding is stated before mapping local documents. **Partial** mea
 
 **Central question:** How does body rotation relate to arm movement and breathing?
 
-**Scope:** Orientation changes within the crawl cycle, distinguished from a general buoyancy explanation. A complete rotation Model is not yet available.
+**Primary Model:** [Front crawl body rotation](../models/front-crawl-body-rotation-model.md) — introductory account.
+
+**Scope:** Orientation changes within the crawl cycle, distinguished from a general buoyancy explanation. The Model explains orientation and phase relationships; quantitative torque and muscle contributions remain outside scope.
 
 **Components and relationships:** Torso orientation, arm events and head turn; their relative timing must be described within the chosen task.
 
@@ -231,6 +253,8 @@ Required understanding is stated before mapping local documents. **Partial** mea
 ## Front crawl coordination
 
 **Central question:** How do alternating arms, kicking, rotation and breathing coexist?
+
+**Primary Model:** [Front crawl cycle](../models/front-crawl-cycle-model.md) — introductory account.
 
 **Scope:** Integration across a complete crawl cycle. As with breaststroke, a whole-stroke Model complements focused component accounts.
 
@@ -248,6 +272,8 @@ Required understanding is stated before mapping local documents. **Partial** mea
 
 **Central question:** How does the chosen pace relate to task demand and continued control?
 
+**Primary Model:** [Effort and pacing](../models/effort-and-pacing-model.md) — introductory account.
+
 **Scope:** Perceived effort, pace and continuity in manageable tasks. This is not a metabolic measurement or a complete pacing strategy.
 
 **Components and relationships:** Elapsed time, event timing, perceived effort and breathing demand; these describe different outcomes that need to be considered together.
@@ -259,15 +285,17 @@ Required understanding is stated before mapping local documents. **Partial** mea
 | Topic | Required knowledge and connections | Existing explanations and gaps |
 |---|---|---|
 | Perceived effort and breathing demand | How difficult the task feels alongside breathing and execution; connects subjective experience to pacing questions | [Perceived effort](../concepts/perceived-effort.md); [Breathing and air access Model](../models/breathing-and-air-access-model.md). These do not measure metabolic cost. |
-| Pace and stroke continuity | How the task and timing relate to observed movement; connects coordination to time and count | [Compare breaststroke continuity](../methods/compare-breaststroke-continuity.md); [Stroke measurement Model](../models/stroke-measurement-model.md). General pacing strategy remains incomplete. |
+| Pace and stroke continuity | How the task and timing relate to observed movement; connects coordination to time and count | [Compare breaststroke continuity](../methods/compare-breaststroke-continuity.md); [Stroke measurement Model](../models/stroke-measurement-model.md). The [Effort and pacing Model](../models/effort-and-pacing-model.md) explains current demand and response. Race strategy and physiological thresholds remain outside scope. |
 
 ## Training and adaptation
 
 **Central question:** How do workload and recovery relate to changes over time?
 
-**Scope:** Controlled progression and the knowledge needed to explain longer-term adaptation. Only bounded task progression is currently implemented.
+**Primary Model:** [Training and adaptation](../models/training-and-adaptation-model.md) — introductory account.
 
-**Components and relationships:** Task demand, rest, repeated exposure and later capacity; a fuller physiological account and its sources remain explicit gaps.
+**Scope:** Controlled progression and the knowledge needed to explain longer-term adaptation. The qualitative Model explains workload, response, recovery and adaptation; only bounded task progression is operationalised.
+
+**Components and relationships:** External workload, internal response, fatigue, recovery and later capacity; the introductory physiological account distinguishes muscle adaptation from observed performance. Detailed cardiovascular and tissue-specific accounts remain gaps.
 
 **Interfaces:** [Effort and pacing](#effort-and-pacing) concerns current demand; [Learning and feedback](#learning-and-feedback) distinguishes skill learning questions; [Observation and measurement](#observation-and-measurement) concerns evidence over time.
 
@@ -275,14 +303,16 @@ Required understanding is stated before mapping local documents. **Partial** mea
 
 | Topic | Required knowledge and connections | Existing explanations and gaps |
 |---|---|---|
-| Controlled progression and recovery between attempts | Changes in task demand and rest conditions; connects repeated activity to continued control | [Progress controlled distance](../methods/progress-controlled-distance.md) provides bounded progression. A full account of training load and recovery is not yet provided. |
-| Endurance and physiological adaptation | How sustained capacity develops across training; connects workload and recovery over time | No dedicated explanation or training program yet; further sources and qualified domain development needed. |
+| Controlled progression and recovery between attempts | Changes in task demand and rest conditions; connects repeated activity to continued control | [Progress controlled distance](../methods/progress-controlled-distance.md) provides bounded progression. The [Training and adaptation Model](../models/training-and-adaptation-model.md) provides an introductory load/response account; individual programming remains outside scope. |
+| Endurance and physiological adaptation | How sustained capacity develops across training; connects workload and recovery over time | [Training and adaptation Model](../models/training-and-adaptation-model.md): workload, recovery and selected muscle-endurance mechanisms. **Partial:** a complete physiological account and individual programme are not provided. |
 
 ## Learning and feedback
 
 **Central question:** How do observations inform adjustment, retention and transfer?
 
-**Scope:** Bounded self-coaching decisions and the knowledge needed to explain learning. The present decision Model is authored design, not a comprehensive theory of motor learning.
+**Primary Model:** [Self coaching learning and feedback](../models/self-coaching-model.md) — introductory account.
+
+**Scope:** Bounded self-coaching decisions and the knowledge needed to explain learning. The decision Model is authored design, supplemented by an evidence-grounded distinction between current performance, retention and transfer; it is not a comprehensive theory of motor learning.
 
 **Components and relationships:** Question, cue, intended change, observed action, result and provisional decision; transfer and retention require evidence in the relevant context.
 
@@ -296,11 +326,13 @@ Required understanding is stated before mapping local documents. **Partial** mea
 | Component practice and transfer | Whether an effect survives the change from a simplified task to whole swimming | [Transfer](../concepts/transfer.md); [isolated success and transfer](../principles/isolated-success-does-not-establish-transfer.md); [Check whole stroke transfer](../methods/check-whole-stroke-transfer.md) |
 | Feedback and adjustment | External observations and bounded comparisons used to refine a question or action | [Request targeted feedback](../methods/request-targeted-feedback.md); [Compare one safe adjustment](../methods/compare-one-safe-adjustment.md) |
 | Retaining and revising working technique | How a local observation informs a provisional personal choice | [Record and update technique](../methods/record-and-update-technique.md); [Self coaching Model](../models/self-coaching-model.md); [Use Swim KPS](../practices/use-swim-kps.md) |
-| Skill acquisition and long term retention | How learning persists and becomes usable across occasions | No comprehensive motor-learning account yet. Existing self-coaching guidance is authored application, not proof of long-term learning effects. |
+| Skill acquisition and long term retention | How learning persists and becomes usable across occasions | [Self coaching learning and feedback Model](../models/self-coaching-model.md): performance, retention, transfer and a constructed comparison. **Partial:** no comprehensive neural theory or evidence for an optimal feedback schedule. |
 
 ## Observation and measurement
 
 **Central question:** What can timing, counts, video and perceived effort establish?
+
+**Primary Model:** [Stroke measurement](../models/stroke-measurement-model.md) — introductory account.
 
 **Scope:** Observable events, comparable measurements and their interpretation. Observation is distinct from a causal diagnosis.
 
@@ -320,20 +352,17 @@ Required understanding is stated before mapping local documents. **Partial** mea
 
 ## Model coverage and boundaries
 
-The eight existing Models have different explanatory jobs. This editorial review identifies their current contribution and gaps; it does not certify scientific completeness or establish a required file count.
+The primary Model column maps all fifteen areas to an existing explanation. Eight Models were refined and seven added; no heading is represented only by a placeholder. The two cycle Models own whole-stroke coordination and link to focused component Models. The self-coaching Model retains its stable identity while explaining learning and feedback as well as provisional decisions.
 
-| Existing Model | Current explanatory job | Coverage and next refinement |
-|---|---|---|
-| [Body support and balance](../models/body-support-and-balance-model.md) | Focused account of support, orientation and changed support conditions | **Partial:** retain the distinction between buoyancy and orientation; richer dynamic examples remain useful |
-| [Force and resistance](../models/force-and-resistance-model.md) | Mechanical account connecting net forces, acceleration and a bounded drag representation | **Partial:** preserve whole-body assumptions; no isolated limb force or individual drag estimate follows from visual motion |
-| [Breathing and air access](../models/breathing-and-air-access-model.md) | Focused coordination account relating ventilation, clearance and stroke opportunity | **Partial:** separates several questions; does not establish an individual breathing pattern or clinical cause |
-| [Breaststroke kick](../models/breaststroke-kick-model.md) | Focused leg-and-water interaction account | **Partial:** this revision adds explicit interfaces and a constructed supported-versus-whole-stroke example; quantitative force and load predictions remain outside scope |
-| [Breaststroke cycle](../models/breaststroke-cycle-model.md) | Integration of arms, kick, air access and return to length | **Partial:** retain as a whole-stroke Model; a fuller focused arm-action account is missing |
-| [Front crawl cycle](../models/front-crawl-cycle-model.md) | Integration of alternating arms, rotation, kick and breathing | **Partial:** retain as a whole-stroke Model; focused arm-action, flutter-kick and rotation accounts need development |
-| [Self coaching](../models/self-coaching-model.md) | Authored observation, hypothesis and provisional-decision loop | **Partial:** useful for bounded questions; a comprehensive account of skill acquisition and retention is missing |
-| [Stroke measurement](../models/stroke-measurement-model.md) | Representation of comparable distance, time, count and contextual observations | **Partial:** supports interpretation; does not measure drag, joint load or metabolic cost |
+Introductory explanatory coverage is present; deeper gaps remain visible:
 
-A substantive training/adaptation account is missing. New Models should follow a clear question and inspected evidence, not be created merely to fill the headings above.
+- **Mechanics:** qualitative component accounts do not calculate individual fluid forces, drag, joint load or ideal trajectories.
+- **Readiness and breathing:** Models explain distinctions and conditions; they do not teach a complete beginner curriculum, assess an individual or diagnose symptoms.
+- **Training:** the load/response account includes a selected muscle-endurance mechanism, not a complete cardiovascular or metabolic model or a training programme.
+- **Learning:** performance, retention and transfer are distinguished; optimal feedback schedules and a comprehensive motor-learning theory remain undeveloped.
+- **Measurement:** definitions and comparisons support interpretation, not direct measures of metabolism or proof of causality.
+
+Each Model includes a constructed example and explicit source limits. Draft review metadata records the absence of separate human domain review; file existence and automated checks do not establish scientific completeness.
 
 ## First connected explanation
 
@@ -350,9 +379,10 @@ The kick Model identifies the movement events; the force Model accounts for net 
 | [University Physics](../references/moebs-2016-university-physics-volume-1.md) and [NASA drag equation](../references/nasa-undated-drag-equation.md) | Force, buoyancy, rotational effects and resistance | Physical relationships need their assumptions; they do not prescribe technique |
 | [Red Cross](../references/american-red-cross-undated-swimming-safety.md), [RNLI](../references/rnli-undated-float-to-live.md) and [breath-holding investigation](../references/boyd-2015-dangerous-underwater-breath-holding.md) | Existing water-safety boundaries and limits | RNLI floating guidance is not a prone-stroke lesson; these records do not establish individual readiness |
 | [Passive drag study](../references/cortesi-2015-head-position-and-passive-drag.md) and [breaststroke kinematics study](../references/gourgoulis-2022-breaststroke-arm-kinematics.md) | Bounded examples for configuration and task-dependent measurements | Selected study populations and conditions; no automatic transfer to an individual swimmer |
+| [Muscle endurance](../references/betts-2022-anatomy-and-physiology.md), [load consensus](../references/soligard-2016-load-in-sport.md) and [learning versus performance](../references/soderstrom-2015-learning-versus-performance.md) | Introductory adaptation, workload/response and retention/transfer distinctions | Selected textbook section, search-indexed consensus passages and review abstract respectively; no programme or optimal feedback schedule |
 
 
-The Swim England breaststroke and front crawl HTML topic divisions were inspected on 2026-10-14. The kick example also reuses selected kick coaching text and the physical accounts. Current reinspection is recorded in the Model; Reference records retain their earlier bounded inspections. Linked videos were not evaluated. Other sources retain their recorded access limits.
+The Swim England breaststroke and front crawl HTML topic divisions were inspected on 2026-10-14. The kick example also reuses selected kick coaching text and the physical accounts. Current reinspection is recorded in the Model; Reference records retain their earlier bounded inspections. Linked videos were not evaluated. Additional subsystem work rechecked selected Red Cross, NHLBI, Swim England and USMS text and OpenStax angular momentum. New records identify the inspected muscle-endurance section, search-indexed IOC load passages and a learning/performance review abstract. Failed direct retrievals and uninspected full texts remain explicit. Other sources retain their recorded access limits.
 
 The fifteen-section organisation, boundaries, interfaces and capability questions are authored synthesis. Coaching sources disagree on some movement references; those differences remain visible in the linked accounts. No diagram, local check or topic label establishes individual suitability, efficacy or independent scientific review.
 
@@ -360,4 +390,4 @@ The fifteen-section organisation, boundaries, interfaces and capability question
 
 Keep direct headings, meaningful interfaces and required depth visible. Preserve necessary coverage even when local explanations are missing. Update the [file index](INDEX.md) for inventory and the [Method to reason map](../guides/WHY-MAP.md) for procedure dependencies. Practices own learning routes and activity prerequisites.
 
-Keep one overview illustration aligned with the text. Additional topic illustrations are optional and user-selected; do not add redundant full-size links. Refine existing Models before making new ones, and do not force one file per heading. The outline is maintained Markdown, not a new knowledge type or a generated file.
+Keep one overview illustration aligned with the text. Additional topic illustrations are optional and user-selected; do not add redundant full-size links. Maintain one primary, self-contained Model for each agreed subsystem. Refine an existing owner before creating another; split only when a distinct explanatory function needs its own boundary. Keep whole-stroke integration alongside focused accounts. The outline is maintained Markdown, not a new knowledge type or a generated file.

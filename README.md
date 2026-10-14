@@ -23,7 +23,7 @@ Self-coaching means choosing your learning question, not swimming alone. Use a s
 
 ## Explore by subject
 
-The [Swimming Body of Knowledge Outline](docs/body-of-knowledge-outline.md) lists direct topics with scope, components, relationships and interfaces. Coverage tables preserve all 34 existing topics; a review of the eight Models distinguishes focused explanations from whole-stroke integration. Start with the [breaststroke kick worked comparison](models/breaststroke-kick-model.md#worked-comparison) to see how kick, forces, balance and timing connect. Use the Practices for activities and their prerequisites.
+The [Swimming Body of Knowledge Outline](docs/body-of-knowledge-outline.md) lists direct topics with scope, components, relationships and interfaces. All fifteen areas now link to self-contained Models with definitions, mechanisms, interfaces and worked examples. Coverage tables retain the 34 detailed topics and distinguish introductory explanations from deeper gaps. Start with the [breaststroke kick worked comparison](models/breaststroke-kick-model.md#worked-comparison) to see how kick, forces, balance and timing connect. Use the Practices for activities and their prerequisites.
 
 ## Structure and reading profile
 The five core folders are `concepts/`, `principles/`, `models/`, `methods/` and `practices/`. `references/` holds Markdown records identifying external publications and their actual contributions. No original source binaries, platform-specific editions or sibling-package files are required.

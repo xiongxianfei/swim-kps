@@ -24,7 +24,7 @@ Use the [source synthesis](../docs/SOURCE-SYNTHESIS.md) to compare claims and al
 
 ## Body of Knowledge Outline
 
-Maintain [required coverage and introductory depth](../docs/body-of-knowledge-outline.md) from established accounts within the swimming scope. Use direct topic headings with a central question, scope, components, relationships and meaningful interfaces. Align explanations and gaps with each topic; preserve overlap. A Model explains a coherent system, and a heading does not require a separate Model file.
+Maintain [required coverage and introductory depth](../docs/body-of-knowledge-outline.md) from established accounts within the swimming scope. Use direct topic headings with a central question, scope, components, relationships and meaningful interfaces. Align explanations and gaps with each topic; preserve overlap. Each agreed subsystem has one primary, self-contained Model explaining its purpose, boundary, essential terms, components, relationships, representation, meaningful interfaces, worked example and source limits. Keep essential definitions and interface conditions inline; links provide deeper explanation. Retain whole-stroke integration Models. A heading alone is not a reason to invent a new subsystem.
 
 The outline owns coverage, the [index](../docs/INDEX.md) owns file inventory, and Practices own activity order and safety prerequisites. Keep one overview illustration aligned with the text; additional pictures are optional and user-selected. Embed images without redundant full-size links. Maintain the Markdown directly; retain the five knowledge roles and pinned authoring contract.
 
