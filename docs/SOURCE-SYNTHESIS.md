@@ -89,3 +89,7 @@ The USMS freestyle-breathing guide includes racing-oriented reduced-breathing ad
 Front-crawl entry remains a genuine coaching difference: Swim England specifies thumb-first entry; USMS describes a relatively flat orientation. The chosen comfortable starting reference is an authored selection, not a proven winner. Breaststroke kick descriptions also differ in path emphasis. No exact knee width, forced joint rotation or mandatory pause is inferred.
 
 This recheck does not certify all content from any source or claim an exhaustive review. No new swimming session, injury diagnosis or personal outcome is asserted.
+
+## Floating and balance lesson on 2026 10 17
+
+The [physics record](../references/moebs-2016-university-physics-volume-1.md#additional-inspection-on-2026-10-17) adds official OpenStax sections 12.1 and 14.4 for the distinction between force balance, moment balance and hydrostatic support. The [theory lesson](../guides/floating-and-balance-lesson.md) applies these relationships to an explicitly simplified two-force picture. Its numbers, diagrams and questions are constructed teaching material; no swimming trial or learner assessment occurred. No new pool exercise or symptom explanation is introduced. The comparison clarifies an existing Model rather than creating another subsystem.

@@ -1,7 +1,7 @@
 ---
 id: "swim:mo:body-support-and-balance-model"
 type: "model"
-version: "4.0.2"
+version: "4.0.3"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -47,6 +47,12 @@ Hydrostatic buoyancy concerns displaced-water weight. The balance of moments als
 The represented system is the swimmer's whole body, with water, gravity and any wall contact supplying external forces. **Weight** acts downward through the centre of mass, the mass-weighted average body position. **Buoyancy** is the net hydrostatic support associated with displaced water; its resultant acts through the centre of buoyancy, the centre of the displaced volume. **Moment** means the turning effect of a force about a selected point or axis. Its magnitude depends on force and perpendicular distance from that axis to the force's line of action.
 
 In the hydrostatic approximation, buoyancy is `water density × gravitational acceleration × displaced volume`. Equal upward and downward resultant forces can remove vertical acceleration without cancelling their turning effects. Orientation depends on the moment balance as well. In movement, additional fluid forces and changing body configuration enter both balances; the static picture alone is insufficient.
+
+## Equal support with a turning effect
+
+For a simple two-force model, suppose weight and buoyancy each have magnitude `F`. Their net force is zero. If their vertical lines of action have horizontal separation `d`, however, their resultant torque has magnitude `F × d`. For an illustrative `F = 600 N` and `d = 0.10 m`, that is `60 N m`. When the lines coincide, this pair has no net torque even if the two centres are at different heights. Zero net force constrains acceleration, not an existing velocity; zero torque alone also does not establish stability after a disturbance.
+
+The numbers are constructed. As the body turns, submerged geometry and fluid forces may change. These conditions do not fix a swimmer's angle or identify muscle weakness. The [floating and balance lesson](../guides/floating-and-balance-lesson.md) develops this distinction with force diagrams, explanation and a grouped conceptual activity. Its teaching sequence is optional; this Model remains the canonical subsystem account.
 
 ## Interfaces
 

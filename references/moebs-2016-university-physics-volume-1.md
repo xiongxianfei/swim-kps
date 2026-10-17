@@ -1,7 +1,7 @@
 ---
 id: "swim:r:physics"
 type: "reference"
-version: "4.0.2"
+version: "4.0.3"
 language: "KPS 9.x"
 status: "draft"
 reviewed: null
@@ -67,6 +67,10 @@ A force’s rotational effect depends on its direction and moment arm; hydrostat
 ## Additional inspection on 2026 10 14
 
 [Section 11.2 Angular Momentum](https://openstax.org/books/university-physics-volume-1/pages/11-2-angular-momentum) was inspected in HTML for the relation between net external torque and the change in total angular momentum of a system about a specified origin. It supplies a general mechanical constraint, not a rigid-body model of a swimmer or a prediction of torso roll. Earlier inspection fields above retain their original scope and date.
+
+## Additional inspection on 2026 10 17
+
+[Section 12.1 Conditions for Static Equilibrium](https://openstax.org/books/university-physics-volume-1/pages/12-1-conditions-for-static-equilibrium) and [Section 14.4 Archimedes Principle and Buoyancy](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy) were inspected in official HTML. Section 12.1 distinguishes net-force and net-torque conditions; section 14.4 explains pressure-derived buoyancy and partial submersion. The earlier dates above describe earlier inspection. The new lesson's two-force contrast and numbers are authored applications, not measured swimming results or source illustrations. Stability and active swimming need more than these simplified balances.
 
 ## What this source does not establish
 
