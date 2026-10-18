@@ -97,7 +97,7 @@ Required understanding is stated before mapping local documents. **Introductory 
 
 | Topic | Required knowledge and connections | Existing explanations and gaps |
 |---|---|---|
-| Buoyancy support and balance | Upward support and body orientation are different questions; connects floating to posture and movement | [Buoyancy](../concepts/buoyancy.md); [buoyancy versus orientation](../principles/buoyancy-and-orientation-are-distinct.md); [Body support and balance Model](../models/body-support-and-balance-model.md) |
+| Buoyancy support and balance | Upward support and body orientation are different questions; connects floating to posture and movement | [Buoyancy](../concepts/buoyancy.md); [buoyancy versus orientation](../principles/buoyancy-and-orientation-are-distinct.md); [Body support and balance Model](../models/body-support-and-balance-model.md); optional [floating and balance lesson](../guides/floating-and-balance-lesson.md) with a worked contrast |
 | Body alignment | Relative positions of head, trunk and limbs through the task; connects posture to breathing and resistance | [Body alignment](../concepts/body-alignment.md); [Check body line](../methods/check-body-line.md) |
 
 ## Propulsion and resistance

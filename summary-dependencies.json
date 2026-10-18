@@ -9,7 +9,7 @@
       "references/nhlbi-2025-what-breathing-does-for-the-body.md": "6156ffc08a9faa69c940f86f14a0e896d7a6ac5e73e11230fd5f79d4d4cd9569"
     },
     "concepts/buoyancy.md": {
-      "references/moebs-2016-university-physics-volume-1.md": "e90153261bd0978b8f83d8ba3bf58c3bbb5afbf16bd85fe689ae82afc1b8e474"
+      "references/moebs-2016-university-physics-volume-1.md": "e03affcedf162f48e12894cf4b0edf19e3addf1a489c1a52af043652c38c36eb"
     },
     "concepts/coordination.md": {
       "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb"
@@ -21,13 +21,13 @@
       "references/us-masters-swimming-undated-freestyle-pull.md": "6d0be16c5f17298b85452ce64df1146372bcd01ae6486a3da379c511ed533636"
     },
     "concepts/propulsion.md": {
-      "references/moebs-2016-university-physics-volume-1.md": "e90153261bd0978b8f83d8ba3bf58c3bbb5afbf16bd85fe689ae82afc1b8e474"
+      "references/moebs-2016-university-physics-volume-1.md": "e03affcedf162f48e12894cf4b0edf19e3addf1a489c1a52af043652c38c36eb"
     },
     "concepts/stroke-cycle.md": {
       "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb"
     },
     "methods/check-body-line.md": {
-      "models/body-support-and-balance-model.md": "158a0ab33e30ff43e8b7d68fcbdccb8b81fc1cb645abf299f6b2245c1697c215",
+      "models/body-support-and-balance-model.md": "ebba4a7f9f0ed590716b87da49ae733bd8242ed2f86997a2a0b84be70c44e905",
       "principles/buoyancy-and-orientation-are-distinct.md": "9cf7279b091eaeac9e2c887c40ac83cc2fc5dbf2d2380d3b3bbadcef22dabbe6",
       "principles/resistance-varies-with-speed-and-configuration.md": "c218dbbb7ce5034ce03450da84de5cfc32fc1a66f402d3ef4ae532d6b9ae0776",
       "references/cortesi-2015-head-position-and-passive-drag.md": "7bfd607baa21be71ce0fdcd846534f6a409d356dc46e0d5e384fd3ce3621a306",
@@ -170,7 +170,7 @@
       "models/water-competence-model.md": "5b901b00557d53ad248e1d9e9aafd192e9ab77b2b4c2ed4570434200f5fc3ed9",
       "principles/buoyancy-and-orientation-are-distinct.md": "9cf7279b091eaeac9e2c887c40ac83cc2fc5dbf2d2380d3b3bbadcef22dabbe6",
       "principles/observation-does-not-identify-one-cause.md": "a6627ca8070f3567c9bc7757d6bcd1fbcff121914062d38fda0fa44a7fee9e8f",
-      "references/moebs-2016-university-physics-volume-1.md": "e90153261bd0978b8f83d8ba3bf58c3bbb5afbf16bd85fe689ae82afc1b8e474",
+      "references/moebs-2016-university-physics-volume-1.md": "e03affcedf162f48e12894cf4b0edf19e3addf1a489c1a52af043652c38c36eb",
       "references/rnli-undated-float-to-live.md": "7cf6960412b5ef1ebb34380f73ce05e93870a6a6e4797afbf52d3e68229515f0"
     },
     "models/breaststroke-arm-action-model.md": {
@@ -185,7 +185,7 @@
       "concepts/coordination.md": "0f02bc15bb0df6a1654c1214f813b244d9b5282b67e9ce95491bad5964e4a23f",
       "concepts/limb-orientation.md": "b918f981103d576a5b6a220cefd6a146581cc915e5f3adbfc5e562c1ecf32b11",
       "concepts/stroke-cycle.md": "ea21966f93890fc2fb9a13feb22f030cc0c361da1827b6d0eba761437d339fe6",
-      "models/body-support-and-balance-model.md": "158a0ab33e30ff43e8b7d68fcbdccb8b81fc1cb645abf299f6b2245c1697c215",
+      "models/body-support-and-balance-model.md": "ebba4a7f9f0ed590716b87da49ae733bd8242ed2f86997a2a0b84be70c44e905",
       "models/breaststroke-arm-action-model.md": "566083438e8909620c1f5e31cb397c12abe83a3ba9952c707c3271c62b696dec",
       "models/breaststroke-kick-model.md": "5ca26dbd1d24fb852605a9ccfbf68ce093555303de56033386a8e87a451201a8",
       "models/breathing-and-air-access-model.md": "d54093a79422150e75315df60818d4f3034a9da7dc482b912105854ef6e143ca",
@@ -201,7 +201,7 @@
       "concepts/coordination.md": "0f02bc15bb0df6a1654c1214f813b244d9b5282b67e9ce95491bad5964e4a23f",
       "concepts/limb-orientation.md": "b918f981103d576a5b6a220cefd6a146581cc915e5f3adbfc5e562c1ecf32b11",
       "methods/check-breaststroke-kick.md": "8b6974118fa326f107398b01ef7a00d23feebbbaa254a8c4e1bb2f2f9a041e63",
-      "models/body-support-and-balance-model.md": "158a0ab33e30ff43e8b7d68fcbdccb8b81fc1cb645abf299f6b2245c1697c215",
+      "models/body-support-and-balance-model.md": "ebba4a7f9f0ed590716b87da49ae733bd8242ed2f86997a2a0b84be70c44e905",
       "models/breaststroke-cycle-model.md": "78c90f7d31921ff1ca5935f195e6517e6627a054013eccd73bbc13369f31a384",
       "models/breathing-and-air-access-model.md": "d54093a79422150e75315df60818d4f3034a9da7dc482b912105854ef6e143ca",
       "models/force-and-resistance-model.md": "26eb897b89e4de3ae71871cfa05bbbbb6f00227497f33219046f2bf29835312d",
@@ -209,7 +209,7 @@
       "principles/isolated-success-does-not-establish-transfer.md": "f013e75e6cd2680e899cfdecb44b37273afc4955b33234b398bc52dd16995ec8",
       "principles/limb-configuration-changes-the-effect-of-effort.md": "27f809ad7239942f91dfd609636ce618e6000ae2d1bb0085c44a270ece73010f",
       "principles/pain-location-does-not-identify-a-stroke-fault.md": "5d0629cb5e411566e015fbd79604befe8c0d063c2e3efbf5ec1259815cfda6b1",
-      "references/moebs-2016-university-physics-volume-1.md": "e90153261bd0978b8f83d8ba3bf58c3bbb5afbf16bd85fe689ae82afc1b8e474",
+      "references/moebs-2016-university-physics-volume-1.md": "e03affcedf162f48e12894cf4b0edf19e3addf1a489c1a52af043652c38c36eb",
       "references/nhs-undated-knee-pain.md": "e8a50f3b35a1d1a2a381b6ec607f6e86a7ff1f41f91511b6e333ea97d6170595",
       "references/swim-england-2018-improving-breaststroke-kick.md": "949ab3e37d8d16c10a1ddf960d037e9c30e4cb5f854daa87e1b1dc1980d377a1",
       "references/us-masters-swimming-undated-breaststroke-kick.md": "ef02d6f2e831221250bf5b15172a7892892635ae766f93788a192abee992d3ff"
@@ -237,7 +237,7 @@
     },
     "models/flutter-kick-model.md": {
       "methods/explore-flutter-kick.md": "697191297220afea4fe899c9ca36b629341e5e0f8a4e09065becd95229678c74",
-      "models/body-support-and-balance-model.md": "158a0ab33e30ff43e8b7d68fcbdccb8b81fc1cb645abf299f6b2245c1697c215",
+      "models/body-support-and-balance-model.md": "ebba4a7f9f0ed590716b87da49ae733bd8242ed2f86997a2a0b84be70c44e905",
       "models/effort-and-pacing-model.md": "1f21d3d95eadb10a395d9be7fd46b8188653dcc6adeb81a4ac39a747c681d241",
       "models/force-and-resistance-model.md": "26eb897b89e4de3ae71871cfa05bbbbb6f00227497f33219046f2bf29835312d",
       "models/front-crawl-cycle-model.md": "6b593b272836c28380206a11b1a163fce448aa9620005985325d61332e379fa6",
@@ -247,14 +247,14 @@
     "models/force-and-resistance-model.md": {
       "concepts/drag.md": "c1a81ce9e115a8b799d621b3ace0b41bafdca355710bc6140664b5ab3b4b3a51",
       "concepts/propulsion.md": "fdfeb8796d827ea764c04471dd96b3b79b48424ed8b74a6106ddf797aadb8530",
-      "models/body-support-and-balance-model.md": "158a0ab33e30ff43e8b7d68fcbdccb8b81fc1cb645abf299f6b2245c1697c215",
+      "models/body-support-and-balance-model.md": "ebba4a7f9f0ed590716b87da49ae733bd8242ed2f86997a2a0b84be70c44e905",
       "models/breaststroke-arm-action-model.md": "566083438e8909620c1f5e31cb397c12abe83a3ba9952c707c3271c62b696dec",
       "models/breaststroke-kick-model.md": "5ca26dbd1d24fb852605a9ccfbf68ce093555303de56033386a8e87a451201a8",
       "models/stroke-measurement-model.md": "1a5d3a32afce4b79963a6de07d6a4ecd0655091701d904f7b6d8344f30fdc010",
       "principles/force-direction-and-application-affect-motion.md": "b2e351c64810fd81c21134c57800db439c2369dd16f389745482ad7b4a23a37f",
       "principles/resistance-varies-with-speed-and-configuration.md": "c218dbbb7ce5034ce03450da84de5cfc32fc1a66f402d3ef4ae532d6b9ae0776",
       "references/cortesi-2015-head-position-and-passive-drag.md": "7bfd607baa21be71ce0fdcd846534f6a409d356dc46e0d5e384fd3ce3621a306",
-      "references/moebs-2016-university-physics-volume-1.md": "e90153261bd0978b8f83d8ba3bf58c3bbb5afbf16bd85fe689ae82afc1b8e474",
+      "references/moebs-2016-university-physics-volume-1.md": "e03affcedf162f48e12894cf4b0edf19e3addf1a489c1a52af043652c38c36eb",
       "references/nasa-undated-drag-equation.md": "af4eee19619c2813bfffe6f602a6cc9773d19034266e032d5faaaed837a99473"
     },
     "models/front-crawl-arm-action-model.md": {
@@ -270,7 +270,7 @@
       "models/flutter-kick-model.md": "c3d941fe55825ad258c7b7d845fc42157c5a7c65b3056547a5bcadc7a5ba9023",
       "models/front-crawl-arm-action-model.md": "fae213a609096da84fe9182409f108717935a088430941874505ae9774c681ca",
       "models/front-crawl-cycle-model.md": "6b593b272836c28380206a11b1a163fce448aa9620005985325d61332e379fa6",
-      "references/moebs-2016-university-physics-volume-1.md": "e90153261bd0978b8f83d8ba3bf58c3bbb5afbf16bd85fe689ae82afc1b8e474",
+      "references/moebs-2016-university-physics-volume-1.md": "e03affcedf162f48e12894cf4b0edf19e3addf1a489c1a52af043652c38c36eb",
       "references/swim-england-2018-improving-front-crawl-technique.md": "da3c1c69d0212949d96f9b0bae30c63208e530bebc08a0a1a3c6c957a6dd5e3d"
     },
     "models/front-crawl-cycle-model.md": {
@@ -323,7 +323,7 @@
       "references/soligard-2016-load-in-sport.md": "df55eaf533c0b96433bf117c0891bd989b7659162f99a6ad292f42bbe1cc6563"
     },
     "models/water-competence-model.md": {
-      "models/body-support-and-balance-model.md": "158a0ab33e30ff43e8b7d68fcbdccb8b81fc1cb645abf299f6b2245c1697c215",
+      "models/body-support-and-balance-model.md": "ebba4a7f9f0ed590716b87da49ae733bd8242ed2f86997a2a0b84be70c44e905",
       "models/breathing-and-air-access-model.md": "d54093a79422150e75315df60818d4f3034a9da7dc482b912105854ef6e143ca",
       "models/self-coaching-model.md": "b2c3c1522c39c5f165168c8288270d5c0c1c9dba3fc0681d86a884537d27d6b3",
       "references/american-red-cross-undated-swimming-safety.md": "e73162d7698f955ab15a46a8e2ae488d6e63a96ba4dc8e486370525fc6fec002"
@@ -342,7 +342,7 @@
       "methods/progress-controlled-distance.md": "6d5bf897df84c332d0fb7e85723cb47ceedd2b30cc73c3ab3b0f44beaa8e3487",
       "methods/record-and-update-technique.md": "01c32ed72f0f2496c086f29c92c4027c67d941a512afab04e346cc6f672e1079",
       "methods/request-targeted-feedback.md": "0189beb80f28cbd6a8387af0da43302580365da91cec52c3e20c0a2c671ea4a2",
-      "models/body-support-and-balance-model.md": "158a0ab33e30ff43e8b7d68fcbdccb8b81fc1cb645abf299f6b2245c1697c215",
+      "models/body-support-and-balance-model.md": "ebba4a7f9f0ed590716b87da49ae733bd8242ed2f86997a2a0b84be70c44e905",
       "models/breaststroke-cycle-model.md": "78c90f7d31921ff1ca5935f195e6517e6627a054013eccd73bbc13369f31a384",
       "models/breaststroke-kick-model.md": "5ca26dbd1d24fb852605a9ccfbf68ce093555303de56033386a8e87a451201a8",
       "models/breathing-and-air-access-model.md": "d54093a79422150e75315df60818d4f3034a9da7dc482b912105854ef6e143ca",
@@ -386,7 +386,7 @@
       "methods/progress-controlled-distance.md": "6d5bf897df84c332d0fb7e85723cb47ceedd2b30cc73c3ab3b0f44beaa8e3487",
       "methods/record-and-update-technique.md": "01c32ed72f0f2496c086f29c92c4027c67d941a512afab04e346cc6f672e1079",
       "methods/request-targeted-feedback.md": "0189beb80f28cbd6a8387af0da43302580365da91cec52c3e20c0a2c671ea4a2",
-      "models/body-support-and-balance-model.md": "158a0ab33e30ff43e8b7d68fcbdccb8b81fc1cb645abf299f6b2245c1697c215",
+      "models/body-support-and-balance-model.md": "ebba4a7f9f0ed590716b87da49ae733bd8242ed2f86997a2a0b84be70c44e905",
       "models/breathing-and-air-access-model.md": "d54093a79422150e75315df60818d4f3034a9da7dc482b912105854ef6e143ca",
       "models/force-and-resistance-model.md": "26eb897b89e4de3ae71871cfa05bbbbb6f00227497f33219046f2bf29835312d",
       "models/front-crawl-cycle-model.md": "6b593b272836c28380206a11b1a163fce448aa9620005985325d61332e379fa6",
@@ -428,7 +428,7 @@
       "references/us-masters-swimming-undated-freestyle-breathing.md": "f50a4de01036b46fd59a773b8e7ef910f45ac2bf91db7b45888730f1ac790b06"
     },
     "principles/buoyancy-and-orientation-are-distinct.md": {
-      "references/moebs-2016-university-physics-volume-1.md": "e90153261bd0978b8f83d8ba3bf58c3bbb5afbf16bd85fe689ae82afc1b8e474",
+      "references/moebs-2016-university-physics-volume-1.md": "e03affcedf162f48e12894cf4b0edf19e3addf1a489c1a52af043652c38c36eb",
       "references/rnli-undated-float-to-live.md": "7cf6960412b5ef1ebb34380f73ce05e93870a6a6e4797afbf52d3e68229515f0"
     },
     "principles/fewer-strokes-do-not-identify-lower-energy-cost.md": {
@@ -437,13 +437,13 @@
     },
     "principles/force-direction-and-application-affect-motion.md": {
       "references/gourgoulis-2022-breaststroke-arm-kinematics.md": "86a26ae120b0635f56fe330ff8ca043cffaf11a3b695b129d9af3fa45694b2cb",
-      "references/moebs-2016-university-physics-volume-1.md": "e90153261bd0978b8f83d8ba3bf58c3bbb5afbf16bd85fe689ae82afc1b8e474"
+      "references/moebs-2016-university-physics-volume-1.md": "e03affcedf162f48e12894cf4b0edf19e3addf1a489c1a52af043652c38c36eb"
     },
     "principles/isolated-success-does-not-establish-transfer.md": {
       "references/cochrane-2024-handbook-v6-5.md": "1fde466dbe554efec9bb48ca13315e0bf3de52a81e4cc81e7e01f2a2cfc63cac"
     },
     "principles/limb-configuration-changes-the-effect-of-effort.md": {
-      "references/moebs-2016-university-physics-volume-1.md": "e90153261bd0978b8f83d8ba3bf58c3bbb5afbf16bd85fe689ae82afc1b8e474",
+      "references/moebs-2016-university-physics-volume-1.md": "e03affcedf162f48e12894cf4b0edf19e3addf1a489c1a52af043652c38c36eb",
       "references/swim-england-2018-improving-breaststroke-kick.md": "949ab3e37d8d16c10a1ddf960d037e9c30e4cb5f854daa87e1b1dc1980d377a1",
       "references/us-masters-swimming-undated-breaststroke-kick.md": "ef02d6f2e831221250bf5b15172a7892892635ae766f93788a192abee992d3ff",
       "references/us-masters-swimming-undated-freestyle-pull.md": "6d0be16c5f17298b85452ce64df1146372bcd01ae6486a3da379c511ed533636"

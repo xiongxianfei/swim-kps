@@ -124,4 +124,6 @@ Explore topics and their relationships in the [Swimming Body of Knowledge Outlin
 
 ## Supporting documentation
 
+[Why floating does not guarantee horizontal balance](../guides/floating-and-balance-lesson.md) is an optional theory lesson with a worked force contrast and short grouped questions.
+
 [Source synthesis](SOURCE-SYNTHESIS.md) explains evidence choices; [Reference records](../references/README.md) retain inspection limits. [Maintenance](MAINTENANCE.md) covers checks, [Contributing](../.github/CONTRIBUTING.md) covers authoring and review, and the [README](../README.md#package-and-language-versions) explains compatibility.
